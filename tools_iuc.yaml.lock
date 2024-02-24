@@ -186,11 +186,13 @@ tools:
   owner: iuc
   revisions:
   - 174c63ee0150
+  - 66310cfc17dd
   tool_panel_section_label: Annotation
 - name: multigsea
   owner: iuc
   revisions:
   - 28e29a3d0eda
+  - e48b10ce08b8
   tool_panel_section_label: Annotation
 - name: goseq
   owner: iuc
@@ -3506,6 +3508,7 @@ tools:
 - name: pbmm2
   owner: iuc
   revisions:
+  - 55b7b257e12f
   - f4ec47f1a8da
   tool_panel_section_label: Mapping
 - name: rgrnastar
@@ -6461,6 +6464,7 @@ tools:
   - a52d2d93e595
   - acf4e47b734c
   - c877294f8025
+  - cbf3f518b668
   - d375502056f1
   - d999e774072a
   - e25d3acf6e68
