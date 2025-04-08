@@ -101,15 +101,14 @@ tools:
   - d868221262d5
   - e4bb4666449e
   - ec4604919de3
-  - f0a29f4b9be9
   - fe75d2414dc0
+  - 35ee5e3e87c1
   tool_panel_section_id: hca_sc_scanpy_tools
 - name: scanpy_compute_graph
   owner: ebi-gxa
   revisions:
   - 087a7edb0995
   - 0fe56ddbab0d
-  - 1dc0ea7a7e62
   - 22bd5861706d
   - 232937b5bb8f
   - 2401808e20e8
@@ -132,6 +131,7 @@ tools:
   - e7fd6981c0f0
   - f776e3ed3c03
   - fe740b19e3b9
+  - c42c2b540ced
   tool_panel_section_id: hca_sc_scanpy_tools
 - name: scanpy_filter_cells
   owner: ebi-gxa

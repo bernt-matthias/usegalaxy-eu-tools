@@ -51,7 +51,7 @@ tools:
 - name: paralyzer
   owner: rnateam
   revisions:
-  - 4dbe81be8b81
+  - f880686a9194
   tool_panel_section_label: RNA Analysis
 - name: ebi_search_rest_results
   owner: iuc
@@ -67,7 +67,7 @@ tools:
 - name: transformation
   owner: ethevenot
   revisions:
-  - d9e05021553c
+  - cc0e9eff0de2
   tool_panel_section_label: Metabolomics
 - name: anova
   owner: lecorguille
@@ -77,7 +77,7 @@ tools:
 - name: heatmap
   owner: ethevenot
   revisions:
-  - db1d80e89156
+  - b1667c118127
   tool_panel_section_label: Metabolomics
 - name: univariate
   owner: ethevenot
@@ -112,7 +112,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
-  - 020b3087d0b7
+  - 73486cc6170e
   tool_panel_section_label: Metagenomic Analysis
 - name: text_processing
   owner: bgruening
@@ -194,7 +194,7 @@ tools:
 - name: split_file_on_column
   owner: bgruening
   revisions:
-  - 90b52d8d6f2c
+  - b60f2452580e
   tool_panel_section_label: Text Manipulation
 - name: merge_cols
   owner: devteam
@@ -224,7 +224,7 @@ tools:
 - name: tables_arithmetic_operations
   owner: devteam
   revisions:
-  - 82fa5062d611
+  - 2e9f3b6ebfbc
   tool_panel_section_label: Text Manipulation
 - name: merge
   owner: devteam
@@ -353,7 +353,7 @@ tools:
 - name: uniprot_rest_interface
   owner: bgruening
   revisions:
-  - 48522382b6a4
+  - cd2a41c65447
   tool_panel_section_label: Convert Formats
 - name: bigwig_to_bedgraph
   owner: bgruening
@@ -492,21 +492,21 @@ tools:
   - 1cfc579079a6
   - 2bb2e07a7a21
   - 2c9e5136b416
-  - 3235aeb45c22
   - 4542035c1075
   - 667e17248bfe
-  - 69c5e9c0add0
   - 6b774e9d6387
   - 6cd09d7b5f37
   - 8774b28235bb
   - 9de82b4963e6
   - a6e57ff585c0
   - ca2def38369c
-  - d0743cb18ed8
   - dba3c47e1798
   - edb534491f92
   - fa30df9b79c2
   - fd5dbf0f732e
+  - 7ed0827da5a8
+  - 18be2d72fdee
+  - 112eb40ba6cf
   tool_panel_section_label: Graph/Display Data
 - name: venn_list
   owner: peterjc
@@ -822,7 +822,7 @@ tools:
 - name: lighter
   owner: bgruening
   revisions:
-  - 89b453176d05
+  - b4d3d0643b0a
   tool_panel_section_label: FASTA/FASTQ
 - name: sickle
   owner: iuc
@@ -860,22 +860,22 @@ tools:
 - name: je_clip
   owner: gbcs-embl-heidelberg
   revisions:
-  - 8b4ccdf5f7dd
+  - 3c7fa5621091
   tool_panel_section_label: FASTA/FASTQ
 - name: je_demultiplex
   owner: gbcs-embl-heidelberg
   revisions:
-  - 6da7b7886cbf
+  - dacd089d81ae
   tool_panel_section_label: FASTA/FASTQ
 - name: je_demultiplex_illu
   owner: gbcs-embl-heidelberg
   revisions:
-  - 69c77f9fc064
+  - c1a390032ed5
   tool_panel_section_label: FASTA/FASTQ
 - name: je_markdupes
   owner: gbcs-embl-heidelberg
   revisions:
-  - 384b972e43bc
+  - 7e47f78590cc
   tool_panel_section_label: FASTA/FASTQ
 - name: align_back_trans
   owner: peterjc
@@ -920,7 +920,7 @@ tools:
 - name: fasta_filter_by_length
   owner: devteam
   revisions:
-  - c8cd0a03db49
+  - e626b3ff9922
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_concatenate_by_species
   owner: devteam
@@ -956,7 +956,7 @@ tools:
   owner: pjbriggs
   revisions:
   - 32f1f56bd970
-  - 415a165d92bb
+  - 53af7b5b1b56
   tool_panel_section_label: FASTA/FASTQ
 - name: cutadapt
   owner: lparsons
@@ -1094,8 +1094,8 @@ tools:
   - bf675f34b056
   - c19b16e5729c
   - d2aaac19f42f
-  - f7985e0479b9
   - f7e2f1eb3a16
+  - c1a4b5f3b432
   tool_panel_section_label: Quality Control
 - name: mira_assembler
   owner: peterjc
@@ -1167,11 +1167,9 @@ tools:
   owner: iuc
   revisions:
   - 0a563fd2f22e
-  - 318b2a9d54dd
   - 3ea5a2a63fa2
   - 4014de1b6daf
   - 4074fc1940e2
-  - 41929aa1e7f3
   - 44959aa06aeb
   - 4df95e2d7f61
   - 53255f6eecfc
@@ -1186,8 +1184,10 @@ tools:
   - c772497b2c32
   - c7c55b694974
   - d5659efd66aa
-  - d82339e37e8e
   - e132e7d02a3e
+  - d681e989ac95
+  - 39bde80cd248
+  - 39bde80cd248
   tool_panel_section_label: Mapping
 - name: hisat2
   owner: iuc
@@ -1252,7 +1252,6 @@ tools:
   revisions:
   - 0696db066a5b
   - 6a3a025714d3
-  - 6f91b8ce6e07
   - 71bacea10eee
   - 7ff33c2d525b
   - 89d26b11d452
@@ -1264,11 +1263,12 @@ tools:
   - d983d19fbbab
   - de44f8eff84a
   - e5c8afac22a7
+  - 24a09ca67621
   tool_panel_section_label: RNA Analysis
 - name: salmon
   owner: bgruening
   revisions:
-  - 5a60f347f566
+  - 53e9709776a0
   tool_panel_section_label: RNA Analysis
 - name: featurecounts
   owner: iuc
@@ -1384,7 +1384,7 @@ tools:
 - name: cuffdiff
   owner: devteam
   revisions:
-  - d3ae7d9c2202
+  - 43b36b3d4333
   tool_panel_section_label: RNA Analysis
 - name: htseq_count
   owner: lparsons
@@ -1459,12 +1459,12 @@ tools:
 - name: cuffquant
   owner: devteam
   revisions:
-  - 6dc45faebc1d
+  - 679d93c99757
   tool_panel_section_label: RNA Analysis
 - name: cuffnorm
   owner: devteam
   revisions:
-  - f5b2ee725d34
+  - 6cbfede05833
   tool_panel_section_label: RNA Analysis
 - name: cuffcompare
   owner: devteam
@@ -1526,9 +1526,9 @@ tools:
   revisions:
   - 424aefbd7777
   - 640d3af5d833
-  - 6d4babad010f
   - 86e2413cf3f8
   - bfe57d6e0c4c
+  - 56e104999978
   tool_panel_section_label: Peak Calling
 - name: piranha
   owner: rnateam
@@ -1538,7 +1538,7 @@ tools:
 - name: macs
   owner: devteam
   revisions:
-  - f6319b0b4391
+  - e5f3bfba6812
   tool_panel_section_label: Peak Calling
 - name: sicer
   owner: devteam
@@ -1571,7 +1571,7 @@ tools:
 - name: metilene
   owner: rnateam
   revisions:
-  - cd253831a014
+  - 37abd09a0ae6
   tool_panel_section_label: Epigenetics
 - name: vcf_filter
   owner: devteam
@@ -1647,7 +1647,7 @@ tools:
 - name: nucleosome_prediction
   owner: bgruening
   revisions:
-  - 2c42bb973ac3
+  - 49d81e777389
   tool_panel_section_label: Annotation
 - name: sortmerna
   owner: rnateam
@@ -1804,7 +1804,7 @@ tools:
 - name: hardklor
   owner: galaxyp
   revisions:
-  - 539f157784e7
+  - c5b3b7eafd46
   tool_panel_section_label: Proteomics
 - name: morpheus
   owner: galaxyp
@@ -1824,17 +1824,17 @@ tools:
 - name: autodock_vina_prepare_ligand
   owner: bgruening
   revisions:
-  - 965badb456d4
+  - f6eb53a200df
   tool_panel_section_label: ChemicalToolBox
 - name: autodock_vina
   owner: bgruening
   revisions:
-  - 65ffed035ca8
+  - 3c8e86318a81
   tool_panel_section_label: ChemicalToolBox
 - name: autodock_vina_prepare_receptor
   owner: bgruening
   revisions:
-  - d15e5a2a7558
+  - 8b9b960c9409
   tool_panel_section_label: ChemicalToolBox
 - name: openmg
   owner: bgruening
@@ -1900,7 +1900,7 @@ tools:
 - name: hifive
   owner: sauria
   revisions:
-  - 4a978cf8cf92
+  - cc95aa05f643
   tool_panel_section_label: Epigenetics
 - name: translate_bed_sequences
   owner: jjohnson
@@ -1925,7 +1925,7 @@ tools:
 - name: emboss_5
   owner: devteam
   revisions:
-  - 1b6538ec8b56
+  - 832c20329690
   tool_panel_section_label: EMBOSS
 - name: kraken_taxonomy_report
   owner: iuc
@@ -1964,7 +1964,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
-  - 020b3087d0b7
+  - 73486cc6170e
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_filter
   owner: devteam
@@ -2188,7 +2188,7 @@ tools:
 - name: exomedepth
   owner: crs4
   revisions:
-  - 45af4a9748cf
+  - 5d60331757d3
   tool_panel_section_label: Variant Calling
 - name: deeptools_plot_fingerprint
   owner: bgruening
@@ -2299,7 +2299,7 @@ tools:
 - name: bamtools_filter
   owner: devteam
   revisions:
-  - bd735cae4ce6
+  - cb20f99fd45b
   tool_panel_section_label: SAM/BAM
 - name: sam_merge
   owner: devteam
@@ -2324,7 +2324,7 @@ tools:
 - name: samtools_rmdup
   owner: devteam
   revisions:
-  - 9129584416e2
+  - 586f9e1cdb2b
   tool_panel_section_label: SAM/BAM
 - name: samtools_idxstats
   owner: devteam
@@ -2374,12 +2374,12 @@ tools:
 - name: samtool_filter2
   owner: devteam
   revisions:
-  - b7aa423007bf
+  - dc6ff68ea5e8
   tool_panel_section_label: SAM/BAM
 - name: samtools_phase
   owner: devteam
   revisions:
-  - 6166013090c0
+  - b5c3b1856370
   tool_panel_section_label: SAM/BAM
 - name: sam2interval
   owner: devteam
@@ -2720,8 +2720,8 @@ tools:
 - name: gecco
   owner: althonos
   revisions:
-  - 359232b58f6a
-  - cc91d730cc4f
+  - cebc53d02da6
+  - a41a2bcb0b91
   tool_panel_section_label: Annotation
 - name: velvet
   owner: devteam

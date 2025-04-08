@@ -11,7 +11,6 @@ tools:
   - 58854e2e6654
   - 5b85006245f3
   - 6ab1a261520a
-  - 7ae9d78b06f5
   - 7fbec959cf2b
   - a58f7eb0df2c
   - c0e71cb2bd1b
@@ -20,6 +19,7 @@ tools:
   - e4a053d67e24
   - eb085b3dbaf8
   - f9eb041c518c
+  - abba603c6ef3
   tool_panel_section_label: ChemicalToolBox
 - name: cactus_cactus
   owner: galaxy-australia

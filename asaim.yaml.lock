@@ -33,14 +33,14 @@ tools:
 - name: fastqc
   owner: devteam
   revisions:
-  - 0b201de108b9
   - 28d39af2dd06
-  - 3a458e268066
   - 3fdc1a74d866
   - 484e86282f4b
-  - 9337dd1fbc66
   - d2cf2c0c8a11
   - e28c965eeed4
+  - 2d094334f61e
+  - a00a6402d09a
+  - f2e8552cf1d0
   tool_panel_section_label: FASTA/FASTQ
 - name: prinseq
   owner: iuc
@@ -55,20 +55,20 @@ tools:
   revisions:
   - 11962ce40855
   - 1bf4789584dc
-  - 2c1f0fe810f7
   - 8352713cf939
   - 949f01671246
   - eb546ac2aab2
-  - f1e71aeaa923
+  - f11ff7be8c78
+  - 1bfc7254232e
   tool_panel_section_label: FASTA/FASTQ
 - name: trimmomatic
   owner: pjbriggs
   revisions:
   - 14d05f2d511d
   - 2bd7cdbb6228
-  - 415a165d92bb
   - a60283899c6d
   - f8a9a5eaca8a
+  - 53af7b5b1b56
   tool_panel_section_label: FASTA/FASTQ
 - name: multiqc
   owner: iuc
@@ -87,8 +87,8 @@ tools:
   - c19b16e5729c
   - d2aaac19f42f
   - e4574a4d09d8
-  - f7985e0479b9
   - f7e2f1eb3a16
+  - c1a4b5f3b432
   tool_panel_section_label: Quality Control
 - name: format_cd_hit_output
   owner: bebatut
@@ -98,15 +98,15 @@ tools:
 - name: sortmerna
   owner: rnateam
   revisions:
-  - 185effcdfb68
   - 59252ca85c74
   - 65c38d020fea
   - b482293b2987
+  - 1eafcc450052
   tool_panel_section_label: Annotation
 - name: data_manager_sortmerna_database_downloader
   owner: rnateam
   revisions:
-  - 30bb49887172
+  - 7d2252852f96
   tool_panel_section_label: Data Managers
 - name: ncbi_blast_plus
   owner: devteam
@@ -134,18 +134,18 @@ tools:
 - name: bwa
   owner: devteam
   revisions:
-  - 48f306c57611
+  - dfd8b7f78c37
   tool_panel_section_label: Mapping
 - name: bowtie2
   owner: devteam
   revisions:
   - 019c2a81547a
-  - 42bb952b4e3c
-  - 8ccbdbe9a695
-  - 96d2e31a3938
   - a9d4f71dbfb0
   - c1ec08cb34f9
   - ceb6467e276c
+  - 4f92dccc808a
+  - 66f992977578
+  - a54de7e658f7
   tool_panel_section_label: Mapping
 - name: hmmer3
   owner: iuc
@@ -183,7 +183,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
-  - 01a241476407
+  - 2ecf5a570907
   tool_panel_section_label: Assembly
 - name: quast
   owner: iuc
@@ -237,7 +237,7 @@ tools:
 - name: interproscan5
   owner: bgruening
   revisions:
-  - 82547f0d3a29
+  - e32f2ea6a139
   tool_panel_section_label: Annotation
 - name: combine_metaphlan2_humann2
   owner: bebatut

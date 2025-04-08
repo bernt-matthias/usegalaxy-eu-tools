@@ -177,10 +177,10 @@ tools:
   - a3d2f919cb98
   - b9cc12600553
   - bff7bfcf975e
-  - c5ed6bfcd806
   - c990df6afc24
   - d4609fbf8ca3
   - fb09ed49c70e
+  - ece330bc4882
   tool_panel_section_label: Metabolomics
 - name: matchms_add_key
   owner: recetox
@@ -218,7 +218,6 @@ tools:
   owner: recetox
   revisions:
   - 00e66c401366
-  - 039e7ab31836
   - 07cac38cbd29
   - 13de8005adba
   - 3370f5b08d19
@@ -234,6 +233,7 @@ tools:
   - c5076cc15e8c
   - ca5a8db023e1
   - da15e8ea3b28
+  - 11431418a707
   tool_panel_section_label: Metabolomics
 - name: matchms_remove_spectra
   owner: recetox
@@ -248,7 +248,6 @@ tools:
   - 1d3ee4f9f63d
   - 5be32c7ce669
   - 773fd501befc
-  - 79accd21387c
   - 84af792d3a78
   - 99da744050b7
   - ad9d2d1b2b8d
@@ -261,12 +260,12 @@ tools:
   - f127d2bb3036
   - f87b1c271012
   - fd890f162ce6
+  - 9f846954928f
   tool_panel_section_label: Metabolomics
 - name: matchms_formatter
   owner: recetox
   revisions:
   - 1b09315a3f87
-  - 1e58bf51a0e5
   - 23d4bc72c505
   - 34439ffa6a60
   - 402620029a7a
@@ -282,12 +281,12 @@ tools:
   - c55da3d77c95
   - d888a64f7c2a
   - f76a397afbe1
+  - 3dad3f53402f
   tool_panel_section_label: Metabolomics
 - name: matchms_metadata_export
   owner: recetox
   revisions:
   - 48c7b584032a
-  - 73c902331bbc
   - 7504a8f93699
   - 786df5cf7dec
   - 7a489b217930
@@ -302,6 +301,7 @@ tools:
   - dd49ef90297c
   - e337075d0aaa
   - f04610d25411
+  - 811104b25490
   tool_panel_section_label: Metabolomics
 - name: matchms_metadata_match
   owner: recetox
@@ -319,9 +319,9 @@ tools:
   - 8a6bcc83171a
   - 91b4b0c9a384
   - b5b360897004
-  - be20e19c57e8
   - ec81ec7cea2e
   - f72cc5505da3
+  - 651cf2ca74b2
   tool_panel_section_label: Metabolomics
 - name: matchms_networking
   owner: recetox
@@ -356,7 +356,6 @@ tools:
   - 3f96c93f8566
   - 44e7027714d7
   - 50229f084c4e
-  - 54b6775010e0
   - 5fae85d4a69a
   - 67f65bcc94bf
   - 7627b40601f6
@@ -368,6 +367,7 @@ tools:
   - dbe94781524a
   - ee35dcec350a
   - f30b53a817af
+  - 32a8826ed367
   tool_panel_section_label: Metabolomics
 - name: matchms_split
   owner: recetox
@@ -387,7 +387,7 @@ tools:
   - ea6c5636c0cf
   - eba733715eaf
   - fc1bc38ede0b
-  - ffe46a9b1124
+  - a7162e5281c1
   tool_panel_section_label: Metabolomics
 - name: matchms_subsetting
   owner: recetox
@@ -569,17 +569,17 @@ tools:
   - 0492fff60960
   - 22c80f584bb1
   - 9cbbfd54d7c4
-  - d2bad53dd220
-  - d5745e78fcfe
+  - 4422c60a4b71
+  - 4422c60a4b71
   tool_panel_section_label: Metabolomics
 - name: mfassignr_mfassigncho
   owner: recetox
   revisions:
   - 59326d3b9c52
-  - b92c9388240a
-  - b96a462d9c3f
   - da64d663694b
   - db058392cb2e
+  - 5ea9dd423109
+  - 5ea9dd423109
   tool_panel_section_label: Metabolomics
 - name: mfassignr_recal
   owner: recetox

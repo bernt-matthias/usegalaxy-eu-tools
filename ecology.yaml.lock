@@ -7,7 +7,7 @@ tools:
   - 07b081730994
   - 1ebb70b59037
   - 8d8aec182fb1
-  - c9dfe4e20a45
+  - f1bfdeb5ebfe
   tool_panel_section_label: Species abundance
 - name: pampa_communitymetrics
   owner: ecology
@@ -15,15 +15,15 @@ tools:
   - 2cd0a5a321c2
   - 5bd7ddd7601f
   - c67ece97d4b1
-  - ddd5b2e74b8b
+  - 5873ac1a5a44
   tool_panel_section_label: Species abundance
 - name: pampa_glmsp
   owner: ecology
   revisions:
-  - 0778efa9eb2e
   - 6c14021f678e
   - 7a69e1c8ba46
   - c12897ba5f83
+  - e972fe2bffee
   tool_panel_section_label: Species abundance
 - name: pampa_glmcomm
   owner: ecology
@@ -31,7 +31,7 @@ tools:
   - 44b9069775ca
   - 8db02073b671
   - b40fecef616b
-  - f0dc3958e65d
+  - 97967fbcf6da
   tool_panel_section_label: Species abundance
 - name: pampa_plotglm
   owner: ecology
@@ -61,8 +61,8 @@ tools:
 - name: stoc_mainglm_group
   owner: ecology
   revisions:
-  - 06a11044e089
   - 8f953c35c787
+  - e3e173ae01b0
   tool_panel_section_label: Species abundance
 - name: stoc_trend_indic
   owner: ecology
@@ -213,8 +213,8 @@ tools:
   - d698c222f354
   - ddf54b12c295
   - f46f0e4f75c4
-  - fb4ff3c42cd3
   - fbf99087e067
+  - 9ff72e942410
   tool_panel_section_label: Text Manipulation
 - name: column_maker
   owner: devteam
@@ -640,7 +640,6 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
-  - 1a9d5a8fff12
   - 4ed102b922cb
   - 6d23883e0b94
   - 80852884053f
@@ -650,6 +649,7 @@ tools:
   - e92c8a69b0e0
   - f458724cc317
   - fa9d6a4d95ad
+  - e1b37bdc5fbd
   tool_panel_section_label: Machine Learning
 - name: sklearn_sample_generator
   owner: bgruening
@@ -659,7 +659,6 @@ tools:
   - 1fe020b2108f
   - 7068b5fcd623
   - 7c2e71e4acf3
-  - 97b467e06354
   - 999e07f0a9fa
   - ab9977548806
   - b4ba9602a36e
@@ -667,12 +666,12 @@ tools:
   - e99cccc3ca13
   - eb41d87cb1de
   - fed1850f01c3
+  - 86a086d2bbed
   tool_panel_section_label: Machine Learning
 - name: sklearn_searchcv
   owner: bgruening
   revisions:
   - 1ae5dfd5ac17
-  - 1c4a241bef5c
   - 1ddf415cb349
   - 301e07345c93
   - 36e8d6d5d01b
@@ -684,6 +683,7 @@ tools:
   - d709e2d0d199
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - 21d3e08b1a48
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
   owner: bgruening
@@ -695,12 +695,12 @@ tools:
   - 4c4ec859c31a
   - 664666bd14ec
   - 7442b94d6a1e
-  - 913ee94945f3
   - 9160cb4069c2
   - 97dce66fe158
   - 9c3e1d3235c8
   - aef56d0e7a61
   - b1eda492f063
+  - 019bd8289224
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
   owner: bgruening
@@ -712,12 +712,12 @@ tools:
   - 2a1afd3481ce
   - 7366e5108e9f
   - 7614281473da
-  - 86020dbc8ef7
   - b07416ec8d16
   - c84ab9ca4e5c
   - cd4328a02798
   - d2da602b05cb
   - e79200975daf
+  - a61375e306c1
   tool_panel_section_label: Machine Learning
 - name: sklearn_nn_classifier
   owner: bgruening
@@ -733,8 +733,8 @@ tools:
   - 8b1b2b91f8d0
   - cd02bf168d23
   - d33d37f32e54
-  - e9ba818e7877
   - fdd27282ed8e
+  - c030e4bb1b39
   tool_panel_section_label: Machine Learning
 - name: sklearn_numeric_clustering
   owner: bgruening
@@ -745,13 +745,13 @@ tools:
   - 7dd3fb35904f
   - 838ca001438d
   - 8eed73e8e04d
-  - abb5a3f256e3
   - ad7e0b4291ee
   - aeca97d9a214
   - bb9fc9d46ea4
   - e10e776f2109
   - e13a7c05b3a4
   - e7f047a9dca9
+  - 27903ce9b4be
   tool_panel_section_label: Machine Learning
 - name: sklearn_ensemble
   owner: bgruening
@@ -767,8 +767,8 @@ tools:
   - 841a6cc5fc58
   - a07ab242b0b5
   - a98fdfcd9f5f
-  - e94395c672bd
   - f3dfa4bdf87e
+  - 360330a867f0
   tool_panel_section_label: Machine Learning
 - name: sklearn_feature_selection
   owner: bgruening
@@ -785,7 +785,7 @@ tools:
   - ae0fafb53c1d
   - d84b3a229a52
   - e918f33f7d4f
-  - ec25331946b8
+  - 231e9a9849e8
   tool_panel_section_label: Machine Learning
 - name: sklearn_data_preprocess
   owner: bgruening
@@ -798,11 +798,11 @@ tools:
   - 761269451e98
   - 80074b842ebd
   - 826c3e68e7a9
-  - 9e43ee712723
   - a5c2ce4ea328
   - add3c3a7c2b4
   - b75cae00f980
   - eb9da067ab26
+  - 9ac0b78c6b6d
   tool_panel_section_label: Machine Learning
 - name: sklearn_clf_metrics
   owner: bgruening
@@ -814,18 +814,17 @@ tools:
   - 55703205546f
   - 6ffedbe712c0
   - 80ca74b1cb36
-  - 9bf11bbeccc3
   - a7067bbf1e58
   - adc6137e7c73
   - c8547d3993c0
   - daaa56720686
   - e9821a426d75
+  - 68afcd163b3d
   tool_panel_section_label: Machine Learning
 - name: sklearn_regression_metrics
   owner: bgruening
   revisions:
   - 1e98dbb8d5bc
-  - 40ee30b5e456
   - 5c9fb40ae174
   - 6000c1589f33
   - 627be0156505
@@ -837,6 +836,7 @@ tools:
   - b4ebe47701e4
   - dc17e2878dc1
   - f5dcb87fd14e
+  - 3badea963c3b
   tool_panel_section_label: Machine Learning
 - name: sklearn_discriminant_classifier
   owner: bgruening
@@ -846,7 +846,6 @@ tools:
   - 2d032cff49eb
   - 420a4bf99244
   - 4335cec181ba
-  - 5552eda109bd
   - 6adef419e041
   - 74fe0dc82c00
   - 78a60f884ac9
@@ -854,6 +853,7 @@ tools:
   - 893285b150f8
   - e76f6dfea5c9
   - fc48ce12454b
+  - 3e2921875c58
   tool_panel_section_label: Machine Learning
 - name: sklearn_generalized_linear
   owner: bgruening
@@ -865,12 +865,12 @@ tools:
   - 616a241c5b37
   - 913bf1c4c7bb
   - 927586a18553
-  - b628de0d101f
   - bf78d5caca65
   - c648d0716fb0
   - c9969328b42f
   - d4808d5b83da
   - dc4b5fd604a6
+  - bf32512b1418
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
   owner: bgruening
@@ -885,9 +885,9 @@ tools:
   - be4f389a95d9
   - bfc7bdfcb423
   - caa3995d5f23
-  - cf9aa11b91c8
   - de360b57a5ab
   - e06ab1e112cc
+  - 492d34a75de6
   tool_panel_section_label: Machine Learning
 - name: scipy_sparse
   owner: bgruening
@@ -901,10 +901,10 @@ tools:
   - a84e6ffd3735
   - b3d80cb1ed87
   - b7e93c1deb3f
-  - b9ed7b774ba3
   - e6893a4bcb7b
   - ecd247e1ea9c
   - f49aad8f79ea
+  - 648b81bca7c5
   tool_panel_section_label: Statistics
 - name: regex_find_replace
   owner: galaxyp
@@ -923,8 +923,8 @@ tools:
   owner: devteam
   revisions:
   - 47e5dbc3e790
-  - 71e5fa25b8a2
   - e9f8633db0a2
+  - 8611b80a14d6
   tool_panel_section_label: FASTA/FASTQ
 - name: fastqc
   owner: devteam
@@ -948,8 +948,8 @@ tools:
   - bf675f34b056
   - c19b16e5729c
   - d2aaac19f42f
-  - f7985e0479b9
   - f7e2f1eb3a16
+  - c1a4b5f3b432
   tool_panel_section_label: Quality Control
 - name: mothur_sffinfo
   owner: iuc
@@ -964,9 +964,9 @@ tools:
 - name: fastq_combiner
   owner: devteam
   revisions:
-  - 56389130cb63
   - 9115b978ce10
   - f1dc2a761c30
+  - b05e39b9c170
   tool_panel_section_label: FASTA/FASTQ
 - name: xarray_metadata_info
   owner: ecology

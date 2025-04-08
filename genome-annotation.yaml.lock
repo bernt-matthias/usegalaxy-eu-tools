@@ -156,8 +156,8 @@ tools:
   - 73a79dec987b
   - 7bac6f5fcfa2
   - a444254e9a57
-  - d3a2072d8745
   - d46d803ca6cc
+  - 96ac930d84fa
   tool_panel_section_label: Annotation
 - name: maker_map_ids
   owner: iuc

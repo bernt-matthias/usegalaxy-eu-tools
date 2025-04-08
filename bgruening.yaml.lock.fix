@@ -1,0 +1,40 @@
+2025-04-08 15:54:27,813 - root - WARNING - flye,bgruening de24438c9988 8d4f03b5fe9d have unequal versions
+2025-04-08 15:54:46,411 - root - INFO - split_file_to_collection,bgruening remove e77b954f0da5 in favor of 0046692724f9 
+2025-04-08 15:54:46,411 - root - INFO - split_file_to_collection,bgruening Adding 0046692724f9 which was absent so far
+2025-04-08 15:55:24,766 - root - WARNING - jbrowse2,fubar 137e08517410 49f3d3878413 have unequal versions
+2025-04-08 15:55:24,766 - root - INFO - jbrowse2,fubar remove b1260bca5fdc in favor of 990291e918c7 
+2025-04-08 15:55:24,767 - root - INFO - jbrowse2,fubar Adding 990291e918c7 which was absent so far
+2025-04-08 15:55:24,767 - root - WARNING - jbrowse2,fubar cec274db51c0 ed3a21033188 have unequal versions
+2025-04-08 15:55:24,767 - root - INFO - jbrowse2,fubar remove dc3fe98e7b37 in favor of 9e3f69d9fed1 
+2025-04-08 15:55:24,767 - root - INFO - jbrowse2,fubar Adding 9e3f69d9fed1 which was absent so far
+2025-04-08 15:57:04,724 - root - INFO - sklearn_build_pipeline,bgruening remove 9ddacd0b8c8b in favor of 52c4e0ef580a 
+2025-04-08 15:57:04,724 - root - INFO - sklearn_build_pipeline,bgruening Adding 52c4e0ef580a which was absent so far
+2025-04-08 15:57:17,732 - root - INFO - sklearn_clf_metrics,bgruening remove 5621f2be9fbc in favor of 5f9ef68756bc 
+2025-04-08 15:57:17,732 - root - INFO - sklearn_clf_metrics,bgruening Adding 5f9ef68756bc which was absent so far
+2025-04-08 15:57:30,635 - root - INFO - sklearn_data_preprocess,bgruening remove 4fc54bac4254 in favor of b0c31e126fa1 
+2025-04-08 15:57:30,635 - root - INFO - sklearn_data_preprocess,bgruening Adding b0c31e126fa1 which was absent so far
+2025-04-08 15:57:43,023 - root - INFO - sklearn_discriminant_classifier,bgruening remove 1d2bcebc8678 in favor of 686d0c3e3b62 
+2025-04-08 15:57:43,023 - root - INFO - sklearn_discriminant_classifier,bgruening Adding 686d0c3e3b62 which was absent so far
+2025-04-08 15:57:56,608 - root - INFO - sklearn_ensemble,bgruening remove f4d8a82e167c in favor of 2e69c6ca6e91 
+2025-04-08 15:57:56,608 - root - INFO - sklearn_ensemble,bgruening Adding 2e69c6ca6e91 which was absent so far
+2025-04-08 15:58:39,012 - root - INFO - sklearn_generalized_linear,bgruening remove 6cf4b82c72bc in favor of e0f8931f6149 
+2025-04-08 15:58:39,012 - root - INFO - sklearn_generalized_linear,bgruening Adding e0f8931f6149 which was absent so far
+2025-04-08 15:59:12,768 - root - INFO - sklearn_model_validation,bgruening remove 60b8a683ba99 in favor of 33d2606fdb3f 
+2025-04-08 15:59:12,768 - root - INFO - sklearn_model_validation,bgruening Adding 33d2606fdb3f which was absent so far
+2025-04-08 15:59:22,992 - root - INFO - sklearn_nn_classifier,bgruening remove 23fb598a09d7 in favor of d6b4ef85001c 
+2025-04-08 15:59:22,993 - root - INFO - sklearn_nn_classifier,bgruening Adding d6b4ef85001c which was absent so far
+2025-04-08 15:59:35,457 - root - INFO - sklearn_numeric_clustering,bgruening remove ff955d4fc5b1 in favor of f1ef5f9320d7 
+2025-04-08 15:59:35,457 - root - INFO - sklearn_numeric_clustering,bgruening Adding f1ef5f9320d7 which was absent so far
+2025-04-08 15:59:47,736 - root - INFO - sklearn_pairwise_metrics,bgruening remove bd9481c0af38 in favor of bb6290994f98 
+2025-04-08 15:59:47,736 - root - INFO - sklearn_pairwise_metrics,bgruening Adding bb6290994f98 which was absent so far
+2025-04-08 16:00:07,009 - root - INFO - sklearn_regression_metrics,bgruening remove 64c87ceb6766 in favor of 931b7b90377b 
+2025-04-08 16:00:07,009 - root - INFO - sklearn_regression_metrics,bgruening Adding 931b7b90377b which was absent so far
+2025-04-08 16:00:20,578 - root - INFO - sklearn_sample_generator,bgruening remove 0ba38603a0d6 in favor of 3bdb5b6c8ee8 
+2025-04-08 16:00:20,578 - root - INFO - sklearn_sample_generator,bgruening Adding 3bdb5b6c8ee8 which was absent so far
+2025-04-08 16:00:32,459 - root - INFO - sklearn_searchcv,bgruening remove 907bb0418c9f in favor of 7509d7059040 
+2025-04-08 16:00:32,459 - root - INFO - sklearn_searchcv,bgruening Adding 7509d7059040 which was absent so far
+2025-04-08 16:00:52,040 - root - INFO - sklearn_svm_classifier,bgruening remove 295c383c3282 in favor of 90f2d6532262 
+2025-04-08 16:00:52,040 - root - INFO - sklearn_svm_classifier,bgruening Adding 90f2d6532262 which was absent so far
+2025-04-08 16:01:58,155 - root - WARNING - nanopolish_eventalign,bgruening 8fdb079ddaf0 85a394edc247 have unequal versions
+2025-04-08 16:03:01,956 - root - INFO - scipy_sparse,bgruening remove 102c8bae2e9c in favor of 4807e865a946 
+2025-04-08 16:03:01,957 - root - INFO - scipy_sparse,bgruening Adding 4807e865a946 which was absent so far

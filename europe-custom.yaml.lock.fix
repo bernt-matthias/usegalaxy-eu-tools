@@ -1,0 +1,129 @@
+2025-04-08 13:43:44,816 - root - WARNING - bedtools,iuc 7ab85ac5f64b 07e8b80f278c have unequal versions
+2025-04-08 13:43:52,761 - root - INFO - paralyzer,rnateam remove 4dbe81be8b81 in favor of f880686a9194 
+2025-04-08 13:43:52,761 - root - INFO - paralyzer,rnateam Adding f880686a9194 which was absent so far
+2025-04-08 13:44:02,269 - root - INFO - transformation,ethevenot remove d9e05021553c in favor of cc0e9eff0de2 
+2025-04-08 13:44:02,269 - root - INFO - transformation,ethevenot Adding cc0e9eff0de2 which was absent so far
+2025-04-08 13:44:07,102 - root - INFO - heatmap,ethevenot remove db1d80e89156 in favor of b1667c118127 
+2025-04-08 13:44:07,102 - root - INFO - heatmap,ethevenot Adding b1667c118127 which was absent so far
+2025-04-08 13:44:15,820 - root - INFO - taxonomy_krona_chart,crs4 remove 020b3087d0b7 in favor of 73486cc6170e 
+2025-04-08 13:44:15,820 - root - INFO - taxonomy_krona_chart,crs4 Adding 73486cc6170e which was absent so far
+2025-04-08 13:44:43,541 - root - INFO - split_file_on_column,bgruening remove 90b52d8d6f2c in favor of b60f2452580e 
+2025-04-08 13:44:43,541 - root - INFO - split_file_on_column,bgruening Adding b60f2452580e which was absent so far
+2025-04-08 13:44:49,937 - root - INFO - tables_arithmetic_operations,devteam remove 82fa5062d611 in favor of 2e9f3b6ebfbc 
+2025-04-08 13:44:49,938 - root - INFO - tables_arithmetic_operations,devteam Adding 2e9f3b6ebfbc which was absent so far
+2025-04-08 13:45:21,681 - root - INFO - uniprot_rest_interface,bgruening remove 48522382b6a4 in favor of cd2a41c65447 
+2025-04-08 13:45:21,681 - root - INFO - uniprot_rest_interface,bgruening Adding cd2a41c65447 which was absent so far
+2025-04-08 13:45:59,592 - root - INFO - jbrowse,iuc remove 3235aeb45c22 in favor of 7ed0827da5a8 
+2025-04-08 13:45:59,592 - root - INFO - jbrowse,iuc Adding 7ed0827da5a8 which was absent so far
+2025-04-08 13:45:59,592 - root - INFO - jbrowse,iuc remove 69c5e9c0add0 in favor of 18be2d72fdee 
+2025-04-08 13:45:59,592 - root - INFO - jbrowse,iuc Adding 18be2d72fdee which was absent so far
+2025-04-08 13:45:59,592 - root - WARNING - jbrowse,iuc 8774b28235bb 6cd09d7b5f37 have unequal versions
+2025-04-08 13:45:59,592 - root - INFO - jbrowse,iuc remove d0743cb18ed8 in favor of 112eb40ba6cf 
+2025-04-08 13:45:59,592 - root - INFO - jbrowse,iuc Adding 112eb40ba6cf which was absent so far
+2025-04-08 13:47:41,794 - root - INFO - lighter,bgruening remove 89b453176d05 in favor of b4d3d0643b0a 
+2025-04-08 13:47:41,794 - root - INFO - lighter,bgruening Adding b4d3d0643b0a which was absent so far
+2025-04-08 13:47:51,552 - root - INFO - je_clip,gbcs-embl-heidelberg remove 8b4ccdf5f7dd in favor of 3c7fa5621091 
+2025-04-08 13:47:51,552 - root - INFO - je_clip,gbcs-embl-heidelberg Adding 3c7fa5621091 which was absent so far
+2025-04-08 13:47:58,343 - root - INFO - je_demultiplex,gbcs-embl-heidelberg remove 6da7b7886cbf in favor of dacd089d81ae 
+2025-04-08 13:47:58,343 - root - INFO - je_demultiplex,gbcs-embl-heidelberg Adding dacd089d81ae which was absent so far
+2025-04-08 13:48:05,532 - root - INFO - je_demultiplex_illu,gbcs-embl-heidelberg remove 69c77f9fc064 in favor of c1a390032ed5 
+2025-04-08 13:48:05,532 - root - INFO - je_demultiplex_illu,gbcs-embl-heidelberg Adding c1a390032ed5 which was absent so far
+2025-04-08 13:48:11,756 - root - INFO - je_markdupes,gbcs-embl-heidelberg remove 384b972e43bc in favor of 7e47f78590cc 
+2025-04-08 13:48:11,756 - root - INFO - je_markdupes,gbcs-embl-heidelberg Adding 7e47f78590cc which was absent so far
+2025-04-08 13:48:20,112 - root - INFO - fasta_filter_by_length,devteam remove c8cd0a03db49 in favor of e626b3ff9922 
+2025-04-08 13:48:20,112 - root - INFO - fasta_filter_by_length,devteam Adding e626b3ff9922 which was absent so far
+2025-04-08 13:48:30,254 - root - INFO - trimmomatic,pjbriggs remove 415a165d92bb in favor of 53af7b5b1b56 
+2025-04-08 13:48:30,254 - root - INFO - trimmomatic,pjbriggs Adding 53af7b5b1b56 which was absent so far
+2025-04-08 13:48:53,000 - root - INFO - multiqc,iuc remove f7985e0479b9 in favor of c1a4b5f3b432 
+2025-04-08 13:48:53,000 - root - INFO - multiqc,iuc Adding c1a4b5f3b432 which was absent so far
+2025-04-08 13:49:14,729 - root - INFO - rgrnastar,iuc remove 318b2a9d54dd in favor of d681e989ac95 
+2025-04-08 13:49:14,729 - root - INFO - rgrnastar,iuc Adding d681e989ac95 which was absent so far
+2025-04-08 13:49:14,729 - root - INFO - rgrnastar,iuc remove 41929aa1e7f3 in favor of 39bde80cd248 
+2025-04-08 13:49:14,729 - root - INFO - rgrnastar,iuc Adding 39bde80cd248 which was absent so far
+2025-04-08 13:49:14,729 - root - INFO - rgrnastar,iuc remove d82339e37e8e in favor of 39bde80cd248 
+2025-04-08 13:49:14,729 - root - INFO - rgrnastar,iuc Adding 39bde80cd248 which was absent so far
+2025-04-08 13:49:38,125 - root - INFO - deseq2,iuc remove 6f91b8ce6e07 in favor of 24a09ca67621 
+2025-04-08 13:49:38,125 - root - INFO - deseq2,iuc Adding 24a09ca67621 which was absent so far
+2025-04-08 13:49:45,876 - root - INFO - salmon,bgruening remove 5a60f347f566 in favor of 53e9709776a0 
+2025-04-08 13:49:45,877 - root - INFO - salmon,bgruening Adding 53e9709776a0 which was absent so far
+2025-04-08 13:49:55,839 - root - WARNING - featurecounts,iuc Adjacent installable revisions c7bd0cc53524 d417fb66494e have equal versions
+2025-04-08 13:50:06,663 - root - WARNING - trinity,iuc Adjacent installable revisions f7564c3f9dc0 1b7800489efb have equal versions
+2025-04-08 13:50:28,338 - root - INFO - cuffdiff,devteam remove d3ae7d9c2202 in favor of 43b36b3d4333 
+2025-04-08 13:50:28,338 - root - INFO - cuffdiff,devteam Adding 43b36b3d4333 which was absent so far
+2025-04-08 13:50:39,700 - root - INFO - cuffquant,devteam remove 6dc45faebc1d in favor of 679d93c99757 
+2025-04-08 13:50:39,700 - root - INFO - cuffquant,devteam Adding 679d93c99757 which was absent so far
+2025-04-08 13:50:44,512 - root - INFO - cuffnorm,devteam remove f5b2ee725d34 in favor of 6cbfede05833 
+2025-04-08 13:50:44,513 - root - INFO - cuffnorm,devteam Adding 6cbfede05833 which was absent so far
+2025-04-08 13:50:56,795 - root - INFO - macs2,iuc remove 6d4babad010f in favor of 56e104999978 
+2025-04-08 13:50:56,795 - root - INFO - macs2,iuc Adding 56e104999978 which was absent so far
+2025-04-08 13:51:01,163 - root - INFO - macs,devteam remove f6319b0b4391 in favor of e5f3bfba6812 
+2025-04-08 13:51:01,163 - root - INFO - macs,devteam Adding e5f3bfba6812 which was absent so far
+2025-04-08 13:51:12,898 - root - INFO - metilene,rnateam remove cd253831a014 in favor of 37abd09a0ae6 
+2025-04-08 13:51:12,898 - root - INFO - metilene,rnateam Adding 37abd09a0ae6 which was absent so far
+2025-04-08 13:51:27,295 - root - INFO - nucleosome_prediction,bgruening remove 2c42bb973ac3 in favor of 49d81e777389 
+2025-04-08 13:51:27,295 - root - INFO - nucleosome_prediction,bgruening Adding 49d81e777389 which was absent so far
+2025-04-08 13:51:59,816 - root - INFO - hardklor,galaxyp remove 539f157784e7 in favor of c5b3b7eafd46 
+2025-04-08 13:51:59,816 - root - INFO - hardklor,galaxyp Adding c5b3b7eafd46 which was absent so far
+2025-04-08 13:52:05,174 - root - INFO - autodock_vina_prepare_ligand,bgruening remove 965badb456d4 in favor of f6eb53a200df 
+2025-04-08 13:52:05,174 - root - INFO - autodock_vina_prepare_ligand,bgruening Adding f6eb53a200df which was absent so far
+2025-04-08 13:52:09,973 - root - INFO - autodock_vina,bgruening remove 65ffed035ca8 in favor of 3c8e86318a81 
+2025-04-08 13:52:09,973 - root - INFO - autodock_vina,bgruening Adding 3c8e86318a81 which was absent so far
+2025-04-08 13:52:14,046 - root - INFO - autodock_vina_prepare_receptor,bgruening remove d15e5a2a7558 in favor of 8b9b960c9409 
+2025-04-08 13:52:14,046 - root - INFO - autodock_vina_prepare_receptor,bgruening Adding 8b9b960c9409 which was absent so far
+2025-04-08 13:52:25,472 - root - INFO - hifive,sauria remove 4a978cf8cf92 in favor of cc95aa05f643 
+2025-04-08 13:52:25,472 - root - INFO - hifive,sauria Adding cc95aa05f643 which was absent so far
+2025-04-08 13:52:35,268 - root - INFO - emboss_5,devteam remove 1b6538ec8b56 in favor of 832c20329690 
+2025-04-08 13:52:35,269 - root - INFO - emboss_5,devteam Adding 832c20329690 which was absent so far
+2025-04-08 13:52:47,357 - root - INFO - taxonomy_krona_chart,crs4 remove 020b3087d0b7 in favor of 73486cc6170e 
+2025-04-08 13:52:47,357 - root - INFO - taxonomy_krona_chart,crs4 Adding 73486cc6170e which was absent so far
+2025-04-08 13:53:18,817 - root - WARNING - exomedepth,crs4 Could not determine versions for 04cf622f445c
+2025-04-08 13:53:18,968 - root - WARNING - exomedepth,crs4 Could not determine versions for 7697ae024df6
+2025-04-08 13:53:19,903 - root - INFO - exomedepth,crs4 remove 45af4a9748cf in favor of 5d60331757d3 
+2025-04-08 13:53:19,903 - root - INFO - exomedepth,crs4 Adding 5d60331757d3 which was absent so far
+2025-04-08 13:53:43,556 - root - INFO - bamtools_filter,devteam remove bd735cae4ce6 in favor of cb20f99fd45b 
+2025-04-08 13:53:43,556 - root - INFO - bamtools_filter,devteam Adding cb20f99fd45b which was absent so far
+2025-04-08 13:53:50,104 - root - INFO - samtools_rmdup,devteam remove 9129584416e2 in favor of 586f9e1cdb2b 
+2025-04-08 13:53:50,104 - root - INFO - samtools_rmdup,devteam Adding 586f9e1cdb2b which was absent so far
+2025-04-08 13:54:00,347 - root - INFO - samtool_filter2,devteam remove b7aa423007bf in favor of dc6ff68ea5e8 
+2025-04-08 13:54:00,347 - root - INFO - samtool_filter2,devteam Adding dc6ff68ea5e8 which was absent so far
+2025-04-08 13:54:04,750 - root - INFO - samtools_phase,devteam remove 6166013090c0 in favor of b5c3b1856370 
+2025-04-08 13:54:04,750 - root - INFO - samtools_phase,devteam Adding b5c3b1856370 which was absent so far
+2025-04-08 13:54:11,268 - root - WARNING - gemini_db_info,iuc Adjacent installable revisions 7d75673f4d6f c2a413e47fe9 have equal versions
+2025-04-08 13:54:11,268 - root - WARNING - gemini_db_info,iuc Adjacent installable revisions b597e1cd14b1 4c5f4e9b1931 have equal versions
+2025-04-08 13:54:18,660 - root - WARNING - gemini_windower,iuc Adjacent installable revisions 0c58ba91d018 406d3552beca have equal versions
+2025-04-08 13:54:18,660 - root - WARNING - gemini_windower,iuc Adjacent installable revisions 9b462be5a604 8f04952b8882 have equal versions
+2025-04-08 13:54:23,385 - root - WARNING - gemini_burden,iuc Adjacent installable revisions 95a149a9a75d 1a4c5adcd587 have equal versions
+2025-04-08 13:54:23,385 - root - WARNING - gemini_burden,iuc Adjacent installable revisions df57188562f0 f0bf88e9e689 have equal versions
+2025-04-08 13:54:28,253 - root - WARNING - gemini_gene_wise,iuc Adjacent installable revisions 0db31ae5295e d46017ddbf94 have equal versions
+2025-04-08 13:54:33,214 - root - WARNING - gemini_stats,iuc Adjacent installable revisions 5c9efee9cb1e b92cfa44f5be have equal versions
+2025-04-08 13:54:33,214 - root - WARNING - gemini_stats,iuc Adjacent installable revisions a0ee6874a23b ee894347fcd6 have equal versions
+2025-04-08 13:54:37,229 - root - WARNING - gemini_mendel_errors,iuc Adjacent installable revisions 009a8d614a83 61343646155c have equal versions
+2025-04-08 13:54:42,331 - root - WARNING - gemini_amend,iuc Adjacent installable revisions 2281967e7bc3 4bd4870ecd33 have equal versions
+2025-04-08 13:54:42,331 - root - WARNING - gemini_amend,iuc Adjacent installable revisions be828b79bd4d 334e946cacd4 have equal versions
+2025-04-08 13:54:47,239 - root - WARNING - gemini_pathways,iuc Adjacent installable revisions 2bce41988d8e 6b09debcfc49 have equal versions
+2025-04-08 13:54:47,239 - root - WARNING - gemini_pathways,iuc Adjacent installable revisions 9199331c3421 9551b3da9f5d have equal versions
+2025-04-08 13:54:51,479 - root - WARNING - gemini_dump,iuc Adjacent installable revisions c3da7c5f2141 40f85b45e472 have equal versions
+2025-04-08 13:54:55,547 - root - WARNING - gemini_region,iuc Adjacent installable revisions 0239bb5482c1 33efe43c1dbb have equal versions
+2025-04-08 13:55:00,561 - root - WARNING - gemini_actionable_mutations,iuc Adjacent installable revisions 142d95ab942e db47f4939381 have equal versions
+2025-04-08 13:55:00,561 - root - WARNING - gemini_actionable_mutations,iuc Adjacent installable revisions 9f0f5e984ae3 3630a6e624d4 have equal versions
+2025-04-08 13:55:05,645 - root - WARNING - gemini_lof_sieve,iuc Adjacent installable revisions 2969a1f43b7d 4b5123d51e8c have equal versions
+2025-04-08 13:55:05,645 - root - WARNING - gemini_lof_sieve,iuc Adjacent installable revisions e1920f41a1ca 90021fffff70 have equal versions
+2025-04-08 13:55:11,100 - root - WARNING - gemini_query,iuc Adjacent installable revisions 5596c2dc4218 666f60a9331a have equal versions
+2025-04-08 13:55:15,859 - root - WARNING - gemini_fusions,iuc Adjacent installable revisions 37f9901b674d 91d53f89ca54 have equal versions
+2025-04-08 13:55:15,860 - root - WARNING - gemini_fusions,iuc Adjacent installable revisions 8151a5a0e4f6 c00dcd1455a0 have equal versions
+2025-04-08 13:55:21,121 - root - WARNING - gemini_load,iuc Adjacent installable revisions 45296e47d565 2270a8b83c12 have equal versions
+2025-04-08 13:55:21,121 - root - WARNING - gemini_load,iuc Adjacent installable revisions 9f74d7b0704a cf61daf064fe have equal versions
+2025-04-08 13:55:28,347 - root - WARNING - gemini_annotate,iuc Adjacent installable revisions f2f3bc622a16 cf0f0f05ba9f have equal versions
+2025-04-08 13:55:32,570 - root - WARNING - gemini_recessive_and_dominant,iuc Adjacent installable revisions a78bfd5264b1 86f3aac4418d have equal versions
+2025-04-08 13:55:38,270 - root - WARNING - gemini_roh,iuc Adjacent installable revisions 345d41f3f574 e8349da26ed5 have equal versions
+2025-04-08 13:55:38,271 - root - WARNING - gemini_roh,iuc Adjacent installable revisions e7ad2a721c4b 93967598e18e have equal versions
+2025-04-08 13:55:44,027 - root - WARNING - gemini_set_somatic,iuc Adjacent installable revisions 5fd4a5f9ee31 ef9991a4a9a7 have equal versions
+2025-04-08 13:55:44,027 - root - WARNING - gemini_set_somatic,iuc Adjacent installable revisions e4e2128460e3 7814e39409d1 have equal versions
+2025-04-08 13:55:50,126 - root - WARNING - gemini_qc,iuc Adjacent installable revisions 5d18dcbf2a0c 9e83673fa6d2 have equal versions
+2025-04-08 13:55:50,126 - root - WARNING - gemini_qc,iuc Adjacent installable revisions 86e46972e183 20f2ecf46dcb have equal versions
+2025-04-08 13:55:55,688 - root - WARNING - gemini_interactions,iuc Adjacent installable revisions 2550239feed5 f745f54638e5 have equal versions
+2025-04-08 13:55:55,688 - root - WARNING - gemini_interactions,iuc Adjacent installable revisions 2ddee6cd4a5a 184aa4e686e2 have equal versions
+2025-04-08 13:56:58,537 - root - INFO - gecco,althonos remove 359232b58f6a in favor of cebc53d02da6 
+2025-04-08 13:56:58,537 - root - INFO - gecco,althonos Adding cebc53d02da6 which was absent so far
+2025-04-08 13:56:58,537 - root - INFO - gecco,althonos remove cc91d730cc4f in favor of a41a2bcb0b91 
+2025-04-08 13:56:58,537 - root - INFO - gecco,althonos Adding a41a2bcb0b91 which was absent so far

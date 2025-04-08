@@ -1,0 +1,30 @@
+2025-04-08 13:41:44,599 - root - INFO - fastqc,devteam remove 0b201de108b9 in favor of 2d094334f61e 
+2025-04-08 13:41:44,599 - root - INFO - fastqc,devteam Adding 2d094334f61e which was absent so far
+2025-04-08 13:41:44,599 - root - INFO - fastqc,devteam remove 3a458e268066 in favor of a00a6402d09a 
+2025-04-08 13:41:44,599 - root - INFO - fastqc,devteam Adding a00a6402d09a which was absent so far
+2025-04-08 13:41:44,599 - root - INFO - fastqc,devteam remove 9337dd1fbc66 in favor of f2e8552cf1d0 
+2025-04-08 13:41:44,599 - root - INFO - fastqc,devteam Adding f2e8552cf1d0 which was absent so far
+2025-04-08 13:41:52,529 - root - INFO - trim_galore,bgruening remove 2c1f0fe810f7 in favor of f11ff7be8c78 
+2025-04-08 13:41:52,529 - root - INFO - trim_galore,bgruening Adding f11ff7be8c78 which was absent so far
+2025-04-08 13:41:52,529 - root - INFO - trim_galore,bgruening remove f1e71aeaa923 in favor of 1bfc7254232e 
+2025-04-08 13:41:52,529 - root - INFO - trim_galore,bgruening Adding 1bfc7254232e which was absent so far
+2025-04-08 13:41:58,970 - root - INFO - trimmomatic,pjbriggs remove 415a165d92bb in favor of 53af7b5b1b56 
+2025-04-08 13:41:58,970 - root - INFO - trimmomatic,pjbriggs Adding 53af7b5b1b56 which was absent so far
+2025-04-08 13:42:07,358 - root - INFO - multiqc,iuc remove f7985e0479b9 in favor of c1a4b5f3b432 
+2025-04-08 13:42:07,358 - root - INFO - multiqc,iuc Adding c1a4b5f3b432 which was absent so far
+2025-04-08 13:42:13,132 - root - INFO - sortmerna,rnateam remove 185effcdfb68 in favor of 1eafcc450052 
+2025-04-08 13:42:13,132 - root - INFO - sortmerna,rnateam Adding 1eafcc450052 which was absent so far
+2025-04-08 13:42:16,745 - root - INFO - data_manager_sortmerna_database_downloader,rnateam remove 30bb49887172 in favor of 7d2252852f96 
+2025-04-08 13:42:16,745 - root - INFO - data_manager_sortmerna_database_downloader,rnateam Adding 7d2252852f96 which was absent so far
+2025-04-08 13:42:26,821 - root - INFO - bwa,devteam remove 48f306c57611 in favor of dfd8b7f78c37 
+2025-04-08 13:42:26,822 - root - INFO - bwa,devteam Adding dfd8b7f78c37 which was absent so far
+2025-04-08 13:42:36,702 - root - INFO - bowtie2,devteam remove 42bb952b4e3c in favor of 4f92dccc808a 
+2025-04-08 13:42:36,702 - root - INFO - bowtie2,devteam Adding 4f92dccc808a which was absent so far
+2025-04-08 13:42:36,702 - root - INFO - bowtie2,devteam remove 8ccbdbe9a695 in favor of 66f992977578 
+2025-04-08 13:42:36,702 - root - INFO - bowtie2,devteam Adding 66f992977578 which was absent so far
+2025-04-08 13:42:36,702 - root - INFO - bowtie2,devteam remove 96d2e31a3938 in favor of a54de7e658f7 
+2025-04-08 13:42:36,702 - root - INFO - bowtie2,devteam Adding a54de7e658f7 which was absent so far
+2025-04-08 13:42:50,302 - root - INFO - metaspades,nml remove 01a241476407 in favor of 2ecf5a570907 
+2025-04-08 13:42:50,302 - root - INFO - metaspades,nml Adding 2ecf5a570907 which was absent so far
+2025-04-08 13:43:13,261 - root - INFO - interproscan5,bgruening remove 82547f0d3a29 in favor of e32f2ea6a139 
+2025-04-08 13:43:13,261 - root - INFO - interproscan5,bgruening Adding e32f2ea6a139 which was absent so far

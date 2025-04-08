@@ -1,0 +1,6 @@
+2025-04-08 13:45:43,198 - root - INFO - graphprot_predict_profile,rnateam remove 4ad83aed5c3c in favor of ddcf35a868b8 
+2025-04-08 13:45:43,198 - root - INFO - graphprot_predict_profile,rnateam Adding ddcf35a868b8 which was absent so far
+2025-04-08 13:45:43,198 - root - INFO - graphprot_predict_profile,rnateam remove 7bbb7bf6304f in favor of ddcf35a868b8 
+2025-04-08 13:45:43,198 - root - INFO - graphprot_predict_profile,rnateam Adding ddcf35a868b8 which was absent so far
+2025-04-08 13:45:57,235 - root - INFO - ribotaper,rnateam remove 579b3be2559f in favor of 74b0ca4446af 
+2025-04-08 13:45:57,235 - root - INFO - ribotaper,rnateam Adding 74b0ca4446af which was absent so far

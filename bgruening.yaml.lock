@@ -237,7 +237,7 @@ tools:
   - 750c1684d47c
   - baabc30154cd
   - d150ac3d853d
-  - e77b954f0da5
+  - 0046692724f9
   tool_panel_section_label: Collection Operations
 - name: gfastats
   owner: bgruening
@@ -284,13 +284,13 @@ tools:
   - 69c6ea16c148
   - 878c27dfea9d
   - af482048ca1a
-  - b1260bca5fdc
   - b55199c56abd
   - c017111e976a
   - c4b77883c0a7
   - cec274db51c0
-  - dc3fe98e7b37
   - ed3a21033188
+  - 990291e918c7
+  - 9e3f69d9fed1
   tool_panel_section_label: Graph/Display Data
 - name: plotly_ml_performance_plots
   owner: bgruening
@@ -488,10 +488,10 @@ tools:
   - 97dce66fe158
   - 99038af8deda
   - 9c3e1d3235c8
-  - 9ddacd0b8c8b
   - aef56d0e7a61
   - b1eda492f063
   - c33145a815ee
+  - 52c4e0ef580a
   tool_panel_section_label: Machine Learning
 - name: sklearn_clf_metrics
   owner: bgruening
@@ -503,7 +503,6 @@ tools:
   - 40e31fb88836
   - 44f0ce9488fb
   - 55703205546f
-  - 5621f2be9fbc
   - 5a21a631d2eb
   - 68afcd163b3d
   - 6ffedbe712c0
@@ -519,6 +518,7 @@ tools:
   - e54382561bd4
   - e8ded63c3fa8
   - e9821a426d75
+  - 5f9ef68756bc
   tool_panel_section_label: Machine Learning
 - name: sklearn_data_preprocess
   owner: bgruening
@@ -529,7 +529,6 @@ tools:
   - 29e863d1491e
   - 484a98c44f00
   - 4952fe39b61d
-  - 4fc54bac4254
   - 50b3e080cef0
   - 66df2aa6cd6b
   - 685046e0381a
@@ -546,13 +545,13 @@ tools:
   - d6b8103c909c
   - eb79bde99328
   - eb9da067ab26
+  - b0c31e126fa1
   tool_panel_section_label: Machine Learning
 - name: sklearn_discriminant_classifier
   owner: bgruening
   revisions:
   - 18b39ada6f35
   - 1bd039aca44f
-  - 1d2bcebc8678
   - 237ae72d58a3
   - 2d032cff49eb
   - 3e2921875c58
@@ -573,6 +572,7 @@ tools:
   - d3e99d3df1ca
   - e76f6dfea5c9
   - fc48ce12454b
+  - 686d0c3e3b62
   tool_panel_section_label: Machine Learning
 - name: sklearn_ensemble
   owner: bgruening
@@ -599,7 +599,7 @@ tools:
   - dde0f1654d18
   - e94395c672bd
   - f3dfa4bdf87e
-  - f4d8a82e167c
+  - 2e69c6ca6e91
   tool_panel_section_label: Machine Learning
 - name: sklearn_estimator_attributes
   owner: bgruening
@@ -683,7 +683,6 @@ tools:
   - 616a241c5b37
   - 63417d0acc72
   - 67881a837f46
-  - 6cf4b82c72bc
   - 913bf1c4c7bb
   - 91c4e3331208
   - 927586a18553
@@ -699,6 +698,7 @@ tools:
   - dc4b5fd604a6
   - e3bc646e63b2
   - f12dc92b6699
+  - e0f8931f6149
   tool_panel_section_label: Machine Learning
 - name: sklearn_label_encoder
   owner: bgruening
@@ -754,7 +754,6 @@ tools:
   - 56f6ebf69ddc
   - 5895fe0b8bde
   - 5d5d9cc554f9
-  - 60b8a683ba99
   - 61e76fb65daf
   - 65f18ab91132
   - 805194c3cdfb
@@ -770,11 +769,11 @@ tools:
   - de360b57a5ab
   - e06ab1e112cc
   - efbec977a47d
+  - 33d2606fdb3f
   tool_panel_section_label: Machine Learning
 - name: sklearn_nn_classifier
   owner: bgruening
   revisions:
-  - 23fb598a09d7
   - 2c58b83c9bad
   - 309cc7c6af56
   - 34d31bd995e9
@@ -797,6 +796,7 @@ tools:
   - fa2d8618bab0
   - fbc38059bb8f
   - fdd27282ed8e
+  - d6b4ef85001c
   tool_panel_section_label: Machine Learning
 - name: sklearn_numeric_clustering
   owner: bgruening
@@ -822,7 +822,7 @@ tools:
   - e10e776f2109
   - e13a7c05b3a4
   - e7f047a9dca9
-  - ff955d4fc5b1
+  - f1ef5f9320d7
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
   owner: bgruening
@@ -843,13 +843,13 @@ tools:
   - a61375e306c1
   - b07416ec8d16
   - bc17040617c0
-  - bd9481c0af38
   - c84ab9ca4e5c
   - cd4328a02798
   - d2da602b05cb
   - e79200975daf
   - e84c0db80565
   - f24deab884d0
+  - bb6290994f98
   tool_panel_section_label: Machine Learning
 - name: sklearn_pca
   owner: bgruening
@@ -881,7 +881,6 @@ tools:
   - 6000c1589f33
   - 627be0156505
   - 649017be1c60
-  - 64c87ceb6766
   - 6db5c1dfb076
   - 70c5a9127f99
   - 7acb9b46c066
@@ -892,12 +891,12 @@ tools:
   - dc17e2878dc1
   - f04a2405f3fe
   - f5dcb87fd14e
+  - 931b7b90377b
   tool_panel_section_label: Machine Learning
 - name: sklearn_sample_generator
   owner: bgruening
   revisions:
   - 04f34751dae3
-  - 0ba38603a0d6
   - 0f460421b212
   - 1fe020b2108f
   - 4ba68dd788b3
@@ -919,6 +918,7 @@ tools:
   - eb41d87cb1de
   - ebf295f2faf6
   - fed1850f01c3
+  - 3bdb5b6c8ee8
   tool_panel_section_label: Machine Learning
 - name: sklearn_searchcv
   owner: bgruening
@@ -938,7 +938,6 @@ tools:
   - 68753d45815f
   - 7626ea9c2e1b
   - 82b6104d4682
-  - 907bb0418c9f
   - a36a45cb96fa
   - c1ca24a1509d
   - c6ae57f774c6
@@ -946,6 +945,7 @@ tools:
   - d709e2d0d199
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - 7509d7059040
   tool_panel_section_label: Machine Learning
 - name: sklearn_stacking_ensemble_models
   owner: bgruening
@@ -974,7 +974,6 @@ tools:
   - 14fa42b095c4
   - 153f237ddb36
   - 1a9d5a8fff12
-  - 295c383c3282
   - 2df8f5c30edc
   - 372582a7a34d
   - 4ed102b922cb
@@ -992,6 +991,7 @@ tools:
   - f458724cc317
   - f9639b488779
   - fa9d6a4d95ad
+  - 90f2d6532262
   tool_panel_section_label: Machine Learning
 - name: sklearn_to_categorical
   owner: bgruening
@@ -1287,7 +1287,6 @@ tools:
 - name: scipy_sparse
   owner: bgruening
   revisions:
-  - 102c8bae2e9c
   - 1658dff33c46
   - 201b4f13b374
   - 27c0b1a050df
@@ -1309,6 +1308,7 @@ tools:
   - eb3091b4ee4b
   - ecd247e1ea9c
   - f49aad8f79ea
+  - 4807e865a946
   tool_panel_section_label: Statistics
 - name: add_line_to_file
   owner: bgruening

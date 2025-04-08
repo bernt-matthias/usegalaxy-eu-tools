@@ -1,0 +1,51 @@
+2025-04-08 14:47:23,370 - root - INFO - pampa_presabs,ecology remove c9dfe4e20a45 in favor of f1bfdeb5ebfe 
+2025-04-08 14:47:23,371 - root - INFO - pampa_presabs,ecology Adding f1bfdeb5ebfe which was absent so far
+2025-04-08 14:47:27,866 - root - INFO - pampa_communitymetrics,ecology remove ddd5b2e74b8b in favor of 5873ac1a5a44 
+2025-04-08 14:47:27,866 - root - INFO - pampa_communitymetrics,ecology Adding 5873ac1a5a44 which was absent so far
+2025-04-08 14:47:31,846 - root - INFO - pampa_glmsp,ecology remove 0778efa9eb2e in favor of e972fe2bffee 
+2025-04-08 14:47:31,846 - root - INFO - pampa_glmsp,ecology Adding e972fe2bffee which was absent so far
+2025-04-08 14:47:36,251 - root - INFO - pampa_glmcomm,ecology remove f0dc3958e65d in favor of 97967fbcf6da 
+2025-04-08 14:47:36,251 - root - INFO - pampa_glmcomm,ecology Adding 97967fbcf6da which was absent so far
+2025-04-08 14:47:47,648 - root - INFO - stoc_mainglm_group,ecology remove 06a11044e089 in favor of e3e173ae01b0 
+2025-04-08 14:47:47,648 - root - INFO - stoc_mainglm_group,ecology Adding e3e173ae01b0 which was absent so far
+2025-04-08 14:48:21,464 - root - INFO - text_processing,bgruening remove fb4ff3c42cd3 in favor of 9ff72e942410 
+2025-04-08 14:48:21,464 - root - INFO - text_processing,bgruening Adding 9ff72e942410 which was absent so far
+2025-04-08 14:51:41,994 - root - INFO - sklearn_svm_classifier,bgruening remove 1a9d5a8fff12 in favor of e1b37bdc5fbd 
+2025-04-08 14:51:41,994 - root - INFO - sklearn_svm_classifier,bgruening Adding e1b37bdc5fbd which was absent so far
+2025-04-08 14:51:56,258 - root - INFO - sklearn_sample_generator,bgruening remove 97b467e06354 in favor of 86a086d2bbed 
+2025-04-08 14:51:56,258 - root - INFO - sklearn_sample_generator,bgruening Adding 86a086d2bbed which was absent so far
+2025-04-08 14:52:07,815 - root - INFO - sklearn_searchcv,bgruening remove 1c4a241bef5c in favor of 21d3e08b1a48 
+2025-04-08 14:52:07,815 - root - INFO - sklearn_searchcv,bgruening Adding 21d3e08b1a48 which was absent so far
+2025-04-08 14:52:18,734 - root - INFO - sklearn_build_pipeline,bgruening remove 913ee94945f3 in favor of 019bd8289224 
+2025-04-08 14:52:18,734 - root - INFO - sklearn_build_pipeline,bgruening Adding 019bd8289224 which was absent so far
+2025-04-08 14:52:31,820 - root - INFO - sklearn_pairwise_metrics,bgruening remove 86020dbc8ef7 in favor of a61375e306c1 
+2025-04-08 14:52:31,821 - root - INFO - sklearn_pairwise_metrics,bgruening Adding a61375e306c1 which was absent so far
+2025-04-08 14:52:43,010 - root - INFO - sklearn_nn_classifier,bgruening remove e9ba818e7877 in favor of c030e4bb1b39 
+2025-04-08 14:52:43,010 - root - INFO - sklearn_nn_classifier,bgruening Adding c030e4bb1b39 which was absent so far
+2025-04-08 14:52:55,822 - root - INFO - sklearn_numeric_clustering,bgruening remove abb5a3f256e3 in favor of 27903ce9b4be 
+2025-04-08 14:52:55,822 - root - INFO - sklearn_numeric_clustering,bgruening Adding 27903ce9b4be which was absent so far
+2025-04-08 14:53:12,151 - root - INFO - sklearn_ensemble,bgruening remove e94395c672bd in favor of 360330a867f0 
+2025-04-08 14:53:12,151 - root - INFO - sklearn_ensemble,bgruening Adding 360330a867f0 which was absent so far
+2025-04-08 14:53:24,923 - root - INFO - sklearn_feature_selection,bgruening remove ec25331946b8 in favor of 231e9a9849e8 
+2025-04-08 14:53:24,923 - root - INFO - sklearn_feature_selection,bgruening Adding 231e9a9849e8 which was absent so far
+2025-04-08 14:53:38,955 - root - INFO - sklearn_data_preprocess,bgruening remove 9e43ee712723 in favor of 9ac0b78c6b6d 
+2025-04-08 14:53:38,955 - root - INFO - sklearn_data_preprocess,bgruening Adding 9ac0b78c6b6d which was absent so far
+2025-04-08 14:53:53,233 - root - INFO - sklearn_clf_metrics,bgruening remove 9bf11bbeccc3 in favor of 68afcd163b3d 
+2025-04-08 14:53:53,233 - root - INFO - sklearn_clf_metrics,bgruening Adding 68afcd163b3d which was absent so far
+2025-04-08 14:54:06,943 - root - INFO - sklearn_regression_metrics,bgruening remove 40ee30b5e456 in favor of 3badea963c3b 
+2025-04-08 14:54:06,943 - root - INFO - sklearn_regression_metrics,bgruening Adding 3badea963c3b which was absent so far
+2025-04-08 14:54:21,401 - root - INFO - sklearn_discriminant_classifier,bgruening remove 5552eda109bd in favor of 3e2921875c58 
+2025-04-08 14:54:21,401 - root - INFO - sklearn_discriminant_classifier,bgruening Adding 3e2921875c58 which was absent so far
+2025-04-08 14:54:35,496 - root - INFO - sklearn_generalized_linear,bgruening remove b628de0d101f in favor of bf32512b1418 
+2025-04-08 14:54:35,496 - root - INFO - sklearn_generalized_linear,bgruening Adding bf32512b1418 which was absent so far
+2025-04-08 14:54:47,970 - root - INFO - sklearn_model_validation,bgruening remove cf9aa11b91c8 in favor of 492d34a75de6 
+2025-04-08 14:54:47,970 - root - INFO - sklearn_model_validation,bgruening Adding 492d34a75de6 which was absent so far
+2025-04-08 14:55:01,371 - root - INFO - scipy_sparse,bgruening remove b9ed7b774ba3 in favor of 648b81bca7c5 
+2025-04-08 14:55:01,371 - root - INFO - scipy_sparse,bgruening Adding 648b81bca7c5 which was absent so far
+2025-04-08 14:55:07,564 - root - INFO - fastq_groomer,devteam remove 71e5fa25b8a2 in favor of 8611b80a14d6 
+2025-04-08 14:55:07,564 - root - INFO - fastq_groomer,devteam Adding 8611b80a14d6 which was absent so far
+2025-04-08 14:55:16,846 - root - INFO - multiqc,iuc remove f7985e0479b9 in favor of c1a4b5f3b432 
+2025-04-08 14:55:16,846 - root - INFO - multiqc,iuc Adding c1a4b5f3b432 which was absent so far
+2025-04-08 14:55:22,113 - root - WARNING - mothur_sffinfo,iuc 12507ed33710 still installed on https://usegalaxy.eu/
+2025-04-08 14:55:27,824 - root - INFO - fastq_combiner,devteam remove 56389130cb63 in favor of b05e39b9c170 
+2025-04-08 14:55:27,824 - root - INFO - fastq_combiner,devteam Adding b05e39b9c170 which was absent so far

@@ -4,7 +4,7 @@ tools:
 - name: metilene
   owner: rnateam
   revisions:
-  - cd253831a014
+  - 37abd09a0ae6
   tool_panel_section_label: Epigenetics
 - name: bismark
   owner: bgruening
@@ -32,7 +32,7 @@ tools:
 - name: hifive
   owner: sauria
   revisions:
-  - 4a978cf8cf92
+  - cc95aa05f643
   tool_panel_section_label: Epigenetics
 - name: clusterprofiler_go
   owner: kpbioteam
