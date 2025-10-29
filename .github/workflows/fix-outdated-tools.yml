@@ -43,7 +43,7 @@ jobs:
         run: uv pip install --system -r requirements.txt
 
       - name: Fix ${{ matrix.lockfile }}
-        run: python scripts/fix_outdated.py "${{ matrix.lockfile }}"
+        run: python scripts/fix_outdated.py --add "${{ matrix.lockfile }}"
 
       - name: Upload changes
         uses: actions/upload-artifact@v4
