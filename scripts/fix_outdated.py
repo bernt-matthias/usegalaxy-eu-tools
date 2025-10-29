@@ -167,7 +167,7 @@ def fix_uninstallable(
     for i, locked_tool in enumerate(locked_tools):
         name = locked_tool["name"]
         owner = locked_tool["owner"]
-
+        logger.info(f"{name} {owner}")
         # get ordered_installable_revisions from oldest to newest
         try:
             ordered_installable_revisions = (
@@ -183,6 +183,7 @@ def fix_uninstallable(
             all_revisions = get_all_revisions(toolshed_url, name, owner)
             all_versions = get_all_versions(toolshed_url, name, owner, all_revisions)
         else:
+            logger.info(f"{name} {owner}: all revisions are installable")
             continue
 
         to_remove = []
@@ -192,11 +193,13 @@ def fix_uninstallable(
                 cur in all_revisions
             ), f"{cur} is not a valid revision of {name} {owner}"
             nxt = get_next(cur, all_revisions, ordered_installable_revisions)
+            logger.info(f"{cur=} {nxt=}")
             if cur in ordered_installable_revisions:
                 if nxt and all_versions[cur] == all_versions[nxt]:
                     logger.warning(
                         f"{name},{owner} Adjacent installable revisions {cur} {nxt} have equal versions"
                     )
+                logger.info(f"{name=} {owner=} {cur} is installable")
                 continue
 
             if not nxt:
@@ -204,6 +207,7 @@ def fix_uninstallable(
                     f"{name},{owner} Could not determine next revision for {cur}"
                 )
                 continue
+            logger.info(f"{all_versions[cur]=} {all_versions[nxt]=}")
             if all_versions[cur] != all_versions[nxt]:
                 logger.warning(f"{name},{owner} {cur} {nxt} have unequal versions")
                 continue
@@ -214,6 +218,8 @@ def fix_uninstallable(
                     logger.info(f"{name},{owner} Adding {nxt} which was absent so far")
                     to_append.append(nxt)
                     to_remove.append(cur)
+                else:
+                    logger.info(f"Attention: {name},{owner} remove {cur} in favor of {nxt} ")
             elif galaxy_url:
                 assert (name, owner) in installed_tools
                 if cur in installed_tools[(name, owner)]:
@@ -228,6 +234,7 @@ def fix_uninstallable(
         for r in to_remove:
             locked_tool["revisions"].remove(r)
         locked_tool["revisions"].extend(to_append)
+        locked_tool["revisions"].sort()
 
     with open(lockfile_name, "w") as handle:
         yaml.dump(lockfile, handle, default_flow_style=False)
