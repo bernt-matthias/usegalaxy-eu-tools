@@ -307,6 +307,11 @@ tools:
   revisions:
   - c82b0ff7ed3d
   tool_panel_section_label: Get Data
+- name: 3dtrees_detailview
+  owner: bgruening
+  revisions:
+  - 51bb974cfbb2
+  tool_panel_section_label: GIS Data Handling
 - name: 3dtrees_standardization
   owner: bgruening
   revisions:
@@ -358,6 +363,7 @@ tools:
   revisions:
   - 54c2d8ebf0cf
   - 57e3de4b3b0d
+  - 6055ffae8903
   - 7b583659453b
   - b98bcfdec481
   tool_panel_section_label: Graph/Display Data
