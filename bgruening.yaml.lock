@@ -1207,6 +1207,7 @@ tools:
   revisions:
   - 08c658e9aa9e
   - 7770a4bd42e2
+  - afa2cbe1a96a
   - dab494dce303
   tool_panel_section_label: Machine Learning
 - name: llm_hub
@@ -1239,6 +1240,7 @@ tools:
   revisions:
   - 88f29982dad3
   - 9e83243823d9
+  - cd355aa0bbcf
   tool_panel_section_label: Mapping
 - name: combine_metaphlan2_humann2
   owner: bebatut
@@ -1312,6 +1314,7 @@ tools:
   owner: bgruening
   revisions:
   - 0fccc65dcb0b
+  - b7edb37100af
   tool_panel_section_label: Metagenomic Analysis
 - name: mafft
   owner: rnateam
