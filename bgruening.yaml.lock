@@ -222,6 +222,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 3fc33af5d9e2
   - 99ddbf037d98
   - bfab6f5b449d
   - f6065bc6e428
@@ -437,6 +438,7 @@ tools:
   - af3eed1f1abe
   - d77c67cfe2ca
   - e708a1191202
+  - fcc5617c18e9
   tool_panel_section_label: Imaging
 - name: yolo_training
   owner: bgruening
@@ -1230,6 +1232,7 @@ tools:
   - 49b4ee0d0965
   - c081e5e1d7ce
   - e7b4afedc471
+  - ec6df5e22055
   tool_panel_section_label: Machine Learning
 - name: whisper
   owner: bgruening
@@ -1249,6 +1252,7 @@ tools:
   - 9450286c42ab
   - 9c91d13827ef
   - bd808d1c4e0c
+  - d1dc88960179
   - d89227ba1de6
   - e0a67265f3ed
   tool_panel_section_label: Machine Learning
@@ -1268,6 +1272,7 @@ tools:
   - 07f018886d40
   - 07f595f34f29
   - 273b0c36d8a2
+  - 5f69690716cb
   - a9d1fe48e1e6
   tool_panel_section_label: Machine Learning
 - name: flexynesis_utils
@@ -1292,6 +1297,7 @@ tools:
   revisions:
   - 1aba57a5a716
   - 28e902e3d8d6
+  - 914a7b992c2c
   - 99898a312165
   tool_panel_section_label: Machine Learning
 - name: black_forest_labs_flux
@@ -1519,6 +1525,7 @@ tools:
   owner: bgruening
   revisions:
   - 34b32e87356f
+  - 599229eafadd
   - 7d42c9b75718
   - 9b5e8695f027
   - f0d9060ba4d6
