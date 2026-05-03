@@ -6,6 +6,7 @@ tools:
   owner: iuc
   revisions:
   - 1bb2ba6d3d96
+  - 31f58ec0459a
   - 3f3e247c053d
   - 4efdca267d51
   - 78c75f134c16
@@ -29,6 +30,7 @@ tools:
   revisions:
   - 1920244e2895
   - 2fa74a3f6670
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_label: Annotation
 - name: annotatemyids
@@ -2578,6 +2580,7 @@ tools:
   - 350c736075eb
   - 3e2551a37201
   - 415fd81b85d3
+  - 4557b2da9e7f
   - 480ddbd12a03
   - 65b93b623c77
   - 6c2351178f8d
@@ -2791,6 +2794,7 @@ tools:
   - da336e3ead38
   - e462044ece67
   - eee1a2f6abd8
+  - f48b35baf365
   tool_panel_section_label: FASTA/FASTQ
 - name: fastqc
   owner: devteam
@@ -3579,6 +3583,7 @@ tools:
   - d78faac2c6ef
   - d951c5b0edd1
   - da8260eba74b
+  - f0872b88c5fc
   tool_panel_section_label: Get Data
 - name: pysradb_search
   owner: iuc
@@ -3908,6 +3913,7 @@ tools:
   - 11c344627e52
   - 2f557f6abbfb
   - 3af838dc0637
+  - 3d5b9e4df7ba
   - 59ebf2c42c0e
   - 5e08a1e22dbc
   - 6d532d760950
@@ -5648,6 +5654,7 @@ tools:
   owner: iuc
   revisions:
   - 0f5f7fa9c08f
+  - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
   - dd6cab3012e1
@@ -10147,6 +10154,7 @@ tools:
   - 1c2db0054039
   - 26ee5e11ecbe
   - 31c42a2c02d3
+  - 371299578b8e
   - 3d93dd18d9f8
   - 3dd49be3f7d3
   - 5e33b465d8d5
@@ -10674,6 +10682,7 @@ tools:
   revisions:
   - d3ebbf39b1c5
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_label: RNA Analysis
 - name: isoformswitchanalyzer
   owner: iuc
@@ -11604,6 +11613,7 @@ tools:
   revisions:
   - 2fe966f8532e
   - 32ea013ae290
+  - 4413217d872c
   - 5854d0da92b4
   - 5cd5d0947354
   - 69f93450c57d
@@ -12474,6 +12484,7 @@ tools:
   - 0b3a28ad3947
   - bf7c4eb54f39
   - c3f88253f9c5
+  - d84dda3ad723
   tool_panel_section_label: Text Manipulation
 - name: coverage
   owner: devteam
@@ -14383,6 +14394,7 @@ tools:
   - 201eff2131d6
   - 4877dfefaacc
   - 54871a78828e
+  - 8367be242f35
 - name: data_manager_clair3_models
   owner: iuc
   revisions:
