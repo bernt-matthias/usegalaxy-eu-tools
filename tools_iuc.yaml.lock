@@ -22,6 +22,7 @@ tools:
   - 468fd92deaaa
   - 5aaffb8d8161
   - ca5d51152817
+  - ce54031c2235
   - e17bbe564242
   - e909d3bc4687
   tool_panel_section_label: Annotation
@@ -2171,6 +2172,7 @@ tools:
   - 05afdd33dac7
   - 64d732725a73
   - 7e353b95f0b6
+  - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_label: Convert Formats
 - name: ucsc_maftoaxt
@@ -3261,6 +3263,7 @@ tools:
   revisions:
   - 00b3da7776a0
   - 2488bcddaf14
+  - 57467b5debe6
   - 61946b8bd43b
   - 96a3c972424f
   - bae6cba73e32
@@ -3578,6 +3581,7 @@ tools:
   revisions:
   - 03a801ded645
   - 0622d99c2619
+  - 07f675a7ac2e
   - 0f3b3813b6ae
   - 18eed8fa7f23
   - 198c75abbf55
@@ -4115,6 +4119,7 @@ tools:
   - 63c8377c58b3
   - 7066a1eda176
   - 8286e361f89c
+  - 9c004f11ebe4
   - a48457358aa8
   - b05f662f9f35
   - ccd1d3013827
@@ -4147,6 +4152,7 @@ tools:
   - 0f611e7d7858
   - 231687cac31b
   - 29f66c353bcb
+  - 453619f40b89
   - 4b85ea34afae
   - 4ceaee0043a5
   - 6152fc6da3dc
@@ -4184,6 +4190,7 @@ tools:
   - 3a6a5381db36
   - 3afa7d456f61
   - 4401ed529d2c
+  - 4630448a0d88
   - 536a6f0d260c
   - 7eaa4f72691f
   - 87eb9c58cd19
@@ -4270,6 +4277,7 @@ tools:
   revisions:
   - 07dd436ea686
   - 4977f65da0ff
+  - 5b245b3ded3f
   - 5dfba24d7bdd
   - 608538d083a2
   - 77d8e0fd162a
@@ -4381,6 +4389,7 @@ tools:
   - 11fa44ee0603
   - 49c8055f6830
   - 4d511437b1e5
+  - 7011782fdbaf
   - 90645548f8cc
   - 977dc15add20
   - 9b7840d527be
@@ -4478,6 +4487,7 @@ tools:
   - b553d14a7845
   - b63363075c2e
   - c2521cba1c32
+  - eb3a1b9a1c3c
   - f741330d4a71
   - fe13295d0329
   tool_panel_section_label: HiCExplorer
@@ -4512,6 +4522,7 @@ tools:
   - 8d203e74869b
   - a10fce08c2dc
   - b637a1e3cb14
+  - bb9e080ae77b
   - d5c24ac2da6e
   - e285920f8585
   - eec0210589b3
@@ -4544,6 +4555,7 @@ tools:
   - 5fbf0fd998ce
   - 6d1526527417
   - 759f6bb1432f
+  - 86958f9bec1b
   - c08c07412bd0
   - c4ee66c35eb6
   - d74cf4a61d65
@@ -9068,6 +9080,7 @@ tools:
   - 0f1c34698076
   - 2a9afed42353
   - 4c172a4a4c9e
+  - 640e4eeab4e2
   - 645159bcee2d
   - 7b379e98b9a9
   - 9eab750c367d
@@ -11959,6 +11972,7 @@ tools:
   - 2b0d3e2f402a
   - 37a47c4fd84d
   - 41f34e925bd5
+  - 53d889b0a2c9
   - 9fec5dd8fbb9
   - be4646256624
   - c7ddb719554d
@@ -11991,6 +12005,7 @@ tools:
   - c92d0f9338c5
   - da7ff78fe296
   - e93b008c637a
+  - fe9bf1aa669e
   - ff7cd3c7c1df
   tool_panel_section_label: Single-cell
 - name: scanpy_cluster_reduce_dimension
@@ -12701,6 +12716,7 @@ tools:
   - 76d6358f71b7
   - 7a82006f7c05
   - c23737f9714f
+  - e92767bd4412
   tool_panel_section_label: Variant Calling
 - name: artic_minion
   owner: iuc

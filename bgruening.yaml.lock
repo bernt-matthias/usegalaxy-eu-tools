@@ -1300,6 +1300,7 @@ tools:
   - 3f7481deaff1
   - 461b8e2d79d5
   - 693011647a67
+  - 9c320e113a6d
   - 9c949eca5d72
   - e6c626b3013b
   tool_panel_section_label: Machine Learning
@@ -1310,6 +1311,7 @@ tools:
   - 07f595f34f29
   - 273b0c36d8a2
   - 5f69690716cb
+  - 91d550761220
   - a9d1fe48e1e6
   tool_panel_section_label: Machine Learning
 - name: flexynesis_utils
@@ -1338,6 +1340,7 @@ tools:
   - 3e756119100d
   - 86d767b93457
   - 914a7b992c2c
+  - 914dcb4df04c
   - 99898a312165
   - d7551996b4a3
   tool_panel_section_label: Machine Learning
