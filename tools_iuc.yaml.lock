@@ -828,6 +828,7 @@ tools:
 - name: panaroo
   owner: galaxy-australia
   revisions:
+  - 3dc21aa05ec3
   - 698faba7eaf9
   - c68a35962d6e
   tool_panel_section_label: Annotation
@@ -2453,6 +2454,7 @@ tools:
   owner: iuc
   revisions:
   - 5c265c4835c0
+  - b120e39b9f58
   tool_panel_section_label: FASTA/FASTQ
 - name: bbtools_bbmerge
   owner: iuc
@@ -2807,6 +2809,7 @@ tools:
 - name: falco
   owner: iuc
   revisions:
+  - 46192706f470
   - 959a14c1f2dd
   - babbcf02d35c
   - da336e3ead38
@@ -3673,6 +3676,7 @@ tools:
   - 067592b6b312
   - 21e491ad532a
   - 58124285e462
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -4336,6 +4340,7 @@ tools:
   - 172137e5fadb
   - 3a74a441b11f
   - 51e40e9b6c3c
+  - 58293f858e2d
   - 615e9d59a682
   - 708e1b8eff5c
   - 782e3ae92bc6
@@ -4363,6 +4368,7 @@ tools:
   - 6f725a516914
   - b376ef118807
   - b6b8c8672756
+  - ee33791e32dc
   - febfddb0b3e8
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicmergeloops
@@ -4441,6 +4447,7 @@ tools:
   owner: bgruening
   revisions:
   - 0dff8b5011c0
+  - 16a8d1688c65
   - 2371fad10021
   - 3f1b286a5c34
   - 5ae69a0a33bf
@@ -4891,6 +4898,7 @@ tools:
   - 4a196b9c72c2
   - 64f11cf59c6e
   - 8d2a528a9513
+  - c598cbb8b019
   - c71dd035971e
   - e188dc7a68e6
   tool_panel_section_label: Mapping
@@ -4985,6 +4993,7 @@ tools:
   - be1d967337e4
   - c0c2d0941de8
   - f54f5baedfdd
+  - f5b1e7d2594f
   tool_panel_section_label: Mapping
 - name: pbmm2
   owner: iuc
@@ -6015,6 +6024,7 @@ tools:
   owner: iuc
   revisions:
   - 592ef3959907
+  - 5a6e1fa871a2
   - a5921c09b7b7
   - dfa1eb2941b0
   - eea0c38a9afd
@@ -9072,6 +9082,7 @@ tools:
   - 3f4f192666f4
   - 7000f98e1c4b
   - a3cdbf62a59f
+  - aa73f04777fd
   tool_panel_section_label: Nanopore
 - name: nanoplot
   owner: iuc
@@ -10054,6 +10065,7 @@ tools:
 - name: raxml
   owner: iuc
   revisions:
+  - 0811b19b117a
   - 14eb2acf30e3
   - 29ff6a849eac
   - 73a469f7dc96
@@ -11055,6 +11067,7 @@ tools:
   - 6e45b443ef1f
   - 8eb8750070d4
   - 914cfcba0ec8
+  - 92198ab2345f
   - ae618321f34a
   - cbf488da3b2c
   - cef79931dda5
@@ -13013,6 +13026,7 @@ tools:
   - 271965b55437
   - 481476814acc
   - 48291658fdf6
+  - 5226c31ac6d3
   - 5fa262ce95dd
   - 67e2bd1c4579
   - 6deb4d549bc9
