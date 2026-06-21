@@ -193,6 +193,7 @@ tools:
   - c5ed6bfcd806
   - c990df6afc24
   - d4609fbf8ca3
+  - d95450eba471
   - fb09ed49c70e
   tool_panel_section_label: Metabolomics
 - name: matchms_add_key
@@ -225,6 +226,7 @@ tools:
   - 6b5867cab698
   - 8a8a58be3929
   - 8c98b3cb320e
+  - 9843a619e9be
   - 9d1b01d3fedd
   - dd1b4515c5cd
   - ea891750acfc
@@ -247,6 +249,7 @@ tools:
   - 83c4b4359ac4
   - 86d265d2a334
   - a177ac3c752c
+  - a26afcf352fd
   - a4661ff81aa4
   - a6583110825c
   - a75791758c34
@@ -273,6 +276,7 @@ tools:
   - 79accd21387c
   - 84af792d3a78
   - 99da744050b7
+  - a465cb84a388
   - ad9d2d1b2b8d
   - c2d546691b7a
   - cbfd7c35e0a4
@@ -294,6 +298,7 @@ tools:
   - 34439ffa6a60
   - 402620029a7a
   - 48ade5cc847f
+  - 5ab06f9104ec
   - 5fa29e292e12
   - 604131c54f97
   - 6501d0287dcd
@@ -346,6 +351,7 @@ tools:
   - 86e080d81cfb
   - 8a6bcc83171a
   - 91b4b0c9a384
+  - 9c9af0df1754
   - b5b360897004
   - be20e19c57e8
   - c86d265f6f5e
@@ -369,6 +375,7 @@ tools:
   - 9c12114c7aee
   - 9f2e7e1600c0
   - ab8a33c370f5
+  - ad859b8036ad
   - c42b977ec884
   - d8e937f335b8
   - f04b378325e5
@@ -419,6 +426,7 @@ tools:
   - 7676700d7c4f
   - 97be845e45c2
   - 986ecfc55ed9
+  - 9e931f6fc8cd
   - ea6c5636c0cf
   - eba733715eaf
   - fc1bc38ede0b
@@ -427,6 +435,7 @@ tools:
 - name: matchms_subsetting
   owner: recetox
   revisions:
+  - 0da72f66ff79
   - 1387786b6206
   - 4ef214cf07c1
   - 5bbd1a8404f5
@@ -480,6 +489,7 @@ tools:
 - name: xtb_molecular_optimization
   owner: recetox
   revisions:
+  - 14a4d81e921e
   - 6e1ef071fffc
   - cba7123c2741
   - d5633eaf3552
@@ -556,6 +566,7 @@ tools:
   - 2b1118bce0b1
   - 6b0fef8a77c0
   - 964b4559eb1b
+  - a0a6127a7a69
   - f0fe957df1cc
   tool_panel_section_label: Metabolomics
 - name: gc_derivatization
@@ -671,6 +682,7 @@ tools:
   - 54401f9d1a30
   - 648f82934b56
   - 9b4b624c4d60
+  - fd2837c28c34
   tool_panel_section_label: Metabolomics
 - name: target_screen
   owner: recetox
