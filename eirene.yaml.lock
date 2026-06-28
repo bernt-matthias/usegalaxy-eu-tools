@@ -206,6 +206,7 @@ tools:
   - 4e8a6d6f0e6a
   - 51da674b945d
   - 68fde0dc3d83
+  - 69b568a0dab1
   - 7c5b86026e57
   - 8fb8ac6c37b0
   - a14e7fe18387
@@ -260,6 +261,7 @@ tools:
 - name: matchms_remove_spectra
   owner: recetox
   revisions:
+  - 27e068d0d89a
   - 6fa0150f6172
   - c24ebd41dd53
   - c7be8e58a6af
@@ -400,6 +402,7 @@ tools:
   - 7627b40601f6
   - 77d6425daa07
   - 7ba589b01dbc
+  - 931cce430163
   - 9782eb7a22b7
   - 9ff95a1a2705
   - b2c7b7705734

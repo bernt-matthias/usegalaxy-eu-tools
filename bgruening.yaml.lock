@@ -436,6 +436,7 @@ tools:
   - ce7a96be8cb6
   - f1e5a9dd6baa
   - fa068d13e781
+  - fe95917c3e20
   tool_panel_section_label: Imaging
 - name: yolo_predict
   owner: bgruening
