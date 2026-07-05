@@ -2085,6 +2085,7 @@ tools:
   owner: iuc
   revisions:
   - 402faa5eab62
+  - 4f831247b7ae
   - 7bc130112fa3
   - 917339196fdf
   - bebf7360eb55
@@ -8952,6 +8953,7 @@ tools:
   owner: bgruening
   revisions:
   - 0cdcf7e99b62
+  - 10fc1d5850a8
   - 1196fc76fdc2
   - 15c0c0d90c3f
   - 1e3323a44643
@@ -10693,6 +10695,7 @@ tools:
   - 9a882d108833
   - a416957ee305
   - a6fc9228e1a0
+  - b060944b3989
   - cd9874cb9019
   - d027d1f4984e
   - d983d19fbbab
@@ -12477,6 +12480,7 @@ tools:
 - name: clustering_from_distmat
   owner: iuc
   revisions:
+  - 10abfe22d9c6
   - 8192b416f945
   - c0b01c55a0e0
   - f8ee933de3ca

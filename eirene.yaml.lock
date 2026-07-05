@@ -320,6 +320,7 @@ tools:
   revisions:
   - 48c7b584032a
   - 51205379251d
+  - 67b885502624
   - 73c902331bbc
   - 7504a8f93699
   - 786df5cf7dec
@@ -473,6 +474,7 @@ tools:
   - e23c14cee5a9
   - ec25de0f0c58
   - fc1a698a71e8
+  - fda20b5ff8ed
   tool_panel_section_label: Metabolomics
 - name: waveica
   owner: recetox
