@@ -1354,6 +1354,7 @@ tools:
   - 28e902e3d8d6
   - 36d65981163b
   - 3e756119100d
+  - 4d4abba5404b
   - 6768109c845f
   - 77824d12c143
   - 86d767b93457
@@ -1429,6 +1430,7 @@ tools:
   owner: bgruening
   revisions:
   - 0370fe3cf518
+  - 27bce4678358
   - 603939ba21ec
   - c153e8dd94ad
 - name: sylph_query
