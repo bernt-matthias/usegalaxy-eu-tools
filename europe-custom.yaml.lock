@@ -488,6 +488,7 @@ tools:
   owner: iuc
   revisions:
   - 0ae74c70b267
+  - 1483285bdb7a
   - 17359b808b01
   - 1cfc579079a6
   - 2bb2e07a7a21
@@ -1200,6 +1201,7 @@ tools:
   - c7c55b694974
   - d5659efd66aa
   - d82339e37e8e
+  - d8d32326fbfb
   - de21b616f03a
   - e132e7d02a3e
   tool_panel_section_label: Mapping
@@ -1215,6 +1217,7 @@ tools:
   - a86e80d3c09c
   - b12d81af0291
   - d4b55e2beb12
+  - eaa10652acc2
   - f4af63aaf57a
   tool_panel_section_label: Mapping
 - name: bowtie_wrappers
@@ -2427,6 +2430,7 @@ tools:
   revisions:
   - 496124e09f82
   - 7d75673f4d6f
+  - b1e50c7b840e
   - b597e1cd14b1
   - bc8b01d1b496
   - c2a413e47fe9
@@ -2446,6 +2450,7 @@ tools:
   owner: iuc
   revisions:
   - 12112e6e5ea4
+  - 2adedc87b4b8
   - 699ce2631e79
   - 95a149a9a75d
   - c70d79e0eed7
@@ -2459,6 +2464,7 @@ tools:
   - 452104bdc655
   - 4b26f6c99227
   - 4f55668547fc
+  - 77284ac1dcee
   - 99d6e7b1b7f1
   - a26f0a30df65
   - e57a1b0ac6be
@@ -2601,6 +2607,7 @@ tools:
   - 60f477e3c79b
   - 91b4db3e6df4
   - ce54eb6fd5f9
+  - d509e44a3fe0
   - d65ca2fa673b
   - e7ad2a721c4b
   - e8349da26ed5
@@ -2626,6 +2633,7 @@ tools:
   - 8414eecc3828
   - 86e46972e183
   - a875f940d8fd
+  - ae60026eac0c
   tool_panel_section_label: Gemini
 - name: gemini_comp_hets
   owner: iuc
