@@ -1103,6 +1103,7 @@ tools:
   - bf675f34b056
   - c19b16e5729c
   - d2aaac19f42f
+  - dc0f5512911c
   - e4dd4c0622f6
   - f7985e0479b9
   - f7e2f1eb3a16
@@ -2473,6 +2474,7 @@ tools:
 - name: gemini_stats
   owner: iuc
   revisions:
+  - 56d27b51656b
   - 5c9efee9cb1e
   - 73b103195e2a
   - 86d4303cc3ca
@@ -2497,6 +2499,7 @@ tools:
   - b8b120a4cef7
   - be828b79bd4d
   - bff8fad3fb69
+  - fb2890358aa3
   tool_panel_section_label: Gemini
 - name: gemini_pathways
   owner: iuc
@@ -2582,6 +2585,7 @@ tools:
   - 9f74d7b0704a
   - b2c25142267e
   - b5b53c27baca
+  - cca3391dc8b4
   tool_panel_section_label: Gemini
 - name: gemini_de_novo
   owner: iuc
@@ -2592,6 +2596,7 @@ tools:
 - name: gemini_annotate
   owner: iuc
   revisions:
+  - 081adc1e0cd5
   - 0c8f7322f8fc
   - 3859552a63d8
   - 567837ca5f33
