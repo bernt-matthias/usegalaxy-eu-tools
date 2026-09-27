@@ -492,6 +492,7 @@ tools:
   - 9afec58b2bf9
   - 9d77b259ef27
   - a98b60c639af
+  - ab2372b0d73d
   - ed4d31f47d65
   - f5e7df4f7975
   tool_panel_section_label: Machine Learning
@@ -512,6 +513,7 @@ tools:
   - 818896cd2213
   - 84697f4f6353
   - 8611b3f52a38
+  - 98aeca624881
   - 9b6faa256f15
   - beeeda757eba
   - c51571d0a0b1
@@ -527,6 +529,7 @@ tools:
   - 00b2ee48b412
   - 00d1889e9ecc
   - 01131463df86
+  - 08b52ffcd2b4
   - 0c933465d70e
   - 0fd7d8e90e2a
   - 1046cf73236b
@@ -553,6 +556,7 @@ tools:
   revisions:
   - 03f61bb3ca43
   - 0af678661e20
+  - 19407b7f815c
   - 2af1346e68c9
   - 31f6bf2382dc
   - 470aed90aa41
@@ -587,6 +591,7 @@ tools:
   - 6fabdcde0214
   - 72c0d2747dc9
   - 8334dc98c48e
+  - 9276346ed061
   - 947c2eacccb8
   - a536d2736c2d
   - b93fb28c785b
@@ -604,6 +609,7 @@ tools:
   - 22f9cbcf1582
   - 25b46af53232
   - 29e4122c90de
+  - 3dd539570a60
   - 475b5171945f
   - 60c726f5cc5e
   - 61ed5b826c32
@@ -640,6 +646,7 @@ tools:
   - 7388ffedf12c
   - 7442b94d6a1e
   - 775b004b7920
+  - 78eb20e5bdd3
   - 840f29aad145
   - 913ee94945f3
   - 9160cb4069c2
@@ -670,6 +677,7 @@ tools:
   - 68afcd163b3d
   - 6ffedbe712c0
   - 80ca74b1cb36
+  - 85f43dfa9ad3
   - 9728636c1e41
   - 9bf11bbeccc3
   - a0061a087409
@@ -689,6 +697,7 @@ tools:
   revisions:
   - 045faa05e712
   - 0ff864fabfe9
+  - 191eac3065de
   - 1b5cd2d16fb1
   - 1bef885255e0
   - 29e863d1491e
@@ -743,6 +752,7 @@ tools:
   - d3e99d3df1ca
   - dea38330b78a
   - e76f6dfea5c9
+  - e81b336415c8
   - fc48ce12454b
   tool_panel_section_label: Machine Learning
 - name: sklearn_ensemble
@@ -752,6 +762,7 @@ tools:
   - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
+  - 0dd932943362
   - 1682df52c084
   - 172365bc2b5f
   - 1a53edc4b438
@@ -804,6 +815,7 @@ tools:
   - d0352e8b4c10
   - e19359b23e54
   - f4a7c3aa1e10
+  - fb9782000c55
   tool_panel_section_label: Machine Learning
 - name: sklearn_feature_selection
   owner: bgruening
@@ -831,6 +843,7 @@ tools:
   - ae0fafb53c1d
   - c2cd3219543a
   - d84b3a229a52
+  - dd786bc16fdb
   - e918f33f7d4f
   - ec25331946b8
   - fcadeadd51ae
@@ -848,6 +861,7 @@ tools:
   - 61fb99c55558
   - 69f627250dea
   - 9a3cb21a3661
+  - a9d72bfe33c9
   - bfc44324a773
   - c2a7717d96ce
   - c2e2aa55dd5c
@@ -872,6 +886,7 @@ tools:
   - 63417d0acc72
   - 67881a837f46
   - 6cf4b82c72bc
+  - 84dad16ed802
   - 913bf1c4c7bb
   - 91c4e3331208
   - 927586a18553
@@ -897,6 +912,7 @@ tools:
   - 026ff1ea9f94
   - 1e006ebbcaf5
   - 2be90d2f29a7
+  - 549937c7349c
   - 5e1581dfb419
   - 6c1c7a89d333
   - 9b067af194b7
@@ -916,6 +932,7 @@ tools:
   - 8e95b68b178b
   - 9b70bf3306e5
   - a459c68692ca
+  - a46f6d5ea764
   - aff86cee673c
   - b7d104ede67e
   - c12485d058aa
@@ -940,6 +957,7 @@ tools:
   - 9084156b2bb5
   - a293d7937700
   - adb084b901cc
+  - cde5fc214cc8
   - f0ede473a7e8
   - fb17e19b62a4
   - fc2e64a27e90
@@ -967,6 +985,7 @@ tools:
   - 95b04e086576
   - 9dc28a4b6ca8
   - a5aed87b2cc0
+  - afa146d816e9
   - b3cafb8519f8
   - bacc38e0a29e
   - be4f389a95d9
@@ -980,6 +999,7 @@ tools:
 - name: sklearn_nn_classifier
   owner: bgruening
   revisions:
+  - 0c612f257a48
   - 187226dceb22
   - 23fb598a09d7
   - 2c58b83c9bad
@@ -1012,6 +1032,7 @@ tools:
   revisions:
   - 1bdac8249aa1
   - 1dd433d2c92c
+  - 2468c4e3baed
   - 27903ce9b4be
   - 2d7c60aa6c62
   - 37e193b3fdd7
@@ -1046,6 +1067,7 @@ tools:
   - 1682b64aad9e
   - 20b7295ae6e9
   - 226524df8c6c
+  - 23a37a52a899
   - 26ae8c074d95
   - 2a1afd3481ce
   - 3ff43fbb7ccf
@@ -1077,6 +1099,7 @@ tools:
   - 3af626081467
   - 435592ba3087
   - 4a1addf7cc1e
+  - 8a82f0a52e73
   - 945a53c248de
   - c17f3eacdb14
   - c716b8c86c5d
@@ -1094,6 +1117,7 @@ tools:
   - 203b2ade8097
   - 268ecaf96b68
   - 28d51b976c29
+  - 31fca3ff2a46
   - 3703b5796442
   - 3badea963c3b
   - 40ee30b5e456
@@ -1141,6 +1165,7 @@ tools:
   - b4ba9602a36e
   - db7eb7302fc9
   - df579b31311d
+  - e6af850a1675
   - e6f4d3d9058c
   - e99cccc3ca13
   - eb41d87cb1de
@@ -1169,6 +1194,7 @@ tools:
   - 7626ea9c2e1b
   - 82b6104d4682
   - 907bb0418c9f
+  - 9a01835cdead
   - a36a45cb96fa
   - c1ca24a1509d
   - c6ae57f774c6
@@ -1188,6 +1214,7 @@ tools:
   - 3dc6734056e6
   - 59f53bbe6ba9
   - 6717e5cc4d05
+  - 9ec25da5ece0
   - a2e4a45c6083
   - ae4b593c99f8
   - b78007bf1cb8
@@ -1222,6 +1249,7 @@ tools:
   - d2afc87db26b
   - da0a22cdcce7
   - de94341feadb
+  - df690bb42687
   - e1b37bdc5fbd
   - e92c8a69b0e0
   - f458724cc317
@@ -1237,6 +1265,7 @@ tools:
   - 612ca26c197d
   - 61634a87efc7
   - 6b59e9b96071
+  - 791fa244e44d
   - 89f11e2b0673
   - a38de68880df
   - a4f18bbb4eca
@@ -1259,6 +1288,7 @@ tools:
   - 68aaa903052a
   - 77125cbb54ac
   - 8b822484debc
+  - a0b0f3158c8c
   - a9e0b963b7bb
   - adf9f8d5ab9a
   - b3a4682eabb6
@@ -1285,6 +1315,7 @@ tools:
   - 382b63d4744b
   - 5a092779412e
   - 6e25381dad5c
+  - 6f7e3901728d
   - 7e0efd4eb72f
   - 910ebff96ddc
   - a2e3cf2f9f40
@@ -1662,6 +1693,7 @@ tools:
   - 1658dff33c46
   - 201b4f13b374
   - 233aab4c1be8
+  - 25254e963e6e
   - 27c0b1a050df
   - 29200ecec39d
   - 2a32d1d9c8da

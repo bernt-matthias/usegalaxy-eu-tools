@@ -2462,6 +2462,7 @@ tools:
   owner: galaxyp
   revisions:
   - 1e5400393797
+  - 66f710aad78d
   tool_panel_section_label: Proteomics
 - name: proteomiqon_peptidespectrummatching
   owner: galaxyp
@@ -2489,6 +2490,7 @@ tools:
   owner: galaxyp
   revisions:
   - 4abcc674fc0b
+  - 4b94e02a71cd
   - 65ce27f0fa01
   tool_panel_section_label: Proteomics
 - name: proteomiqon_joinquantpepionswithproteins
@@ -2507,6 +2509,7 @@ tools:
   owner: galaxyp
   revisions:
   - 39fa1ddd587d
+  - ba8c254ac79f
   tool_panel_section_label: Proteomics
 - name: validate_fasta_database
   owner: galaxyp
