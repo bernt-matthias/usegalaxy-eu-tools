@@ -796,6 +796,7 @@ tools:
   revisions:
   - 876d26806584
   - 9e47b28bff57
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_label: Annotation
 - name: omark
@@ -1047,6 +1048,7 @@ tools:
   - 2b21643ce8d7
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_label: Annotation
 - name: transtermhp
@@ -3078,6 +3080,7 @@ tools:
 - name: seqkit_fx2tab
   owner: iuc
   revisions:
+  - 0d3b2a85231e
   - 13e101f5bb5d
   - 1dc73570fd5a
   - 23adecaeb039
@@ -3101,6 +3104,7 @@ tools:
   - 3c0120a0e35c
   - 6fb76225bdb1
   - 934165d1f733
+  - 943f34336731
   - dcd66e8008d7
   - f56a47e4cc93
   - fb7b676906e7
@@ -3109,6 +3113,7 @@ tools:
   owner: iuc
   revisions:
   - 0acbccd721b9
+  - 4cc0348746a6
   - 54e818ea7c4d
   - 571e6933e972
   - 5fb2dc40c4de
@@ -3131,6 +3136,7 @@ tools:
   - 1936d097808a
   - 23fa143a2e94
   - 6366952ddfd3
+  - b441f51f88b7
   - b7fe1967e668
   - c669e8550c46
   - d35d114c26a7
@@ -3139,6 +3145,7 @@ tools:
 - name: seqkit_stats
   owner: iuc
   revisions:
+  - 0a2a529e24e3
   - 191738d53912
   - 24107542edff
   - 3d6d1121a427
@@ -3161,6 +3168,7 @@ tools:
   - 14f7ceef5579
   - 29ef2c5ec205
   - 3dc878f71e4d
+  - 46281f14fcb0
   - 53b2027027c7
   - 61eb4cfc7313
   - 9ba18868a990
@@ -3171,6 +3179,7 @@ tools:
 - name: seqkit_split2
   owner: iuc
   revisions:
+  - 0a429822c6a5
   - 0c7fadfe52e2
   - 22a535d54360
   - 911de3a36b31
@@ -5051,6 +5060,7 @@ tools:
   - 69b5fa6480ff
   - 6fe0fdd63a67
   - 7da532cd050c
+  - 8638fee69580
   - 8fbd98f37c10
   - 95ab864b281a
   - 98099e4da1fd
@@ -5917,6 +5927,7 @@ tools:
   revisions:
   - 15f6ef1d7c96
   - 5910c5106cdc
+  - 7e66a24282a7
   - cd1d8332bc04
   - ddfb9c10740a
   tool_panel_section_label: Metagenomic Analysis
@@ -7143,6 +7154,7 @@ tools:
   - 7a97ac708fee
   - 822aa141fd05
   - a0e1c0d16acf
+  - c6d180716cfd
   - d316b3aeae2a
   - efa3ca193614
   - feafeeadff01
@@ -7166,6 +7178,7 @@ tools:
   - 67a9d49fd957
   - 7d7cad62a309
   - b521c78ffe4c
+  - cccbb8c86f6f
   - dc46590e9c86
   - ff94748c0987
   tool_panel_section_label: Metagenomic Analysis
@@ -7189,6 +7202,7 @@ tools:
   - 95bc5317a54d
   - bbf9d5ff34bb
   - fb1b2937bd89
+  - fbfc2815218b
   - ffb10fc9b9b9
   tool_panel_section_label: Metagenomic Analysis
 - name: pimento_std
@@ -7199,6 +7213,7 @@ tools:
   - 70af55e04e01
   - 91da437d2be1
   - 9d552c4f16b9
+  - a5fd181499b4
   - ea746199e14f
   - f04ef31b216b
   tool_panel_section_label: Metagenomic Analysis
@@ -9047,6 +9062,7 @@ tools:
 - name: mmseqs2_easy_linclust_clustering
   owner: iuc
   revisions:
+  - 0a60a6d93d3b
   - 1bc9b91a91fd
   - b174c3405549
   - e6c5f120f010
