@@ -244,6 +244,7 @@ tools:
   - dd1b4515c5cd
   - ea891750acfc
   - ef233c08112e
+  - f67250103433
   - fbdb2ae524df
   tool_panel_section_label: Metabolomics
 - name: matchms_filtering
@@ -296,6 +297,7 @@ tools:
   - ad9d2d1b2b8d
   - c2d546691b7a
   - cbfd7c35e0a4
+  - ccf5e216b6ee
   - cdb41d95648c
   - d7b517f2c5fe
   - da9c5d40d1ba
@@ -334,6 +336,7 @@ tools:
   owner: recetox
   revisions:
   - 48c7b584032a
+  - 4f8a83c62c67
   - 51205379251d
   - 67b885502624
   - 73c902331bbc
@@ -468,6 +471,7 @@ tools:
   - 9231f7bee46d
   - a598091029ad
   - aa2e912f9dc2
+  - b52e65169696
   - c4835715c7ac
   - cab0e4dcf372
   - d11b27e59dfa
@@ -773,4 +777,5 @@ tools:
   revisions:
   - 4018639dc0a5
   - 4787c71cdb6e
+  - ba8b0743be69
   tool_panel_section_label: Metabolomics

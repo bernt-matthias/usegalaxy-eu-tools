@@ -1935,6 +1935,7 @@ tools:
   - b28e0cfa7ba1
   - b8348686a0b9
   - ce3c7f062223
+  - d57471728f7b
   - dde39ba9c031
   - e19bebe96cd2
   - fe5b4cb8356c
@@ -2201,6 +2202,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
   - 65a69de1e294
   - 66617be450bd
   - 6c56786c9d1a
@@ -2222,6 +2224,7 @@ tools:
   - 07d093aaf3b4
   - 24eec94e6dfc
   - 30a8447539e4
+  - 3a66889baf43
   - 3d0223265277
   - 6ff67d2860e1
   - 95a71120949f
@@ -5059,6 +5062,7 @@ tools:
   - 2595c27071c2
   - 69b5fa6480ff
   - 6fe0fdd63a67
+  - 7c5b53cd2997
   - 7da532cd050c
   - 8638fee69580
   - 8fbd98f37c10
@@ -7163,6 +7167,7 @@ tools:
   owner: iuc
   revisions:
   - 1045f1377aa3
+  - 19fdc13ec330
   - 4b16765b123f
   - 6da5db3da6ad
   - 81a33caa9b8a
@@ -7185,6 +7190,7 @@ tools:
 - name: pimento_find_cutoffs
   owner: iuc
   revisions:
+  - 476febadd67a
   - 667d8863c03b
   - 7147d42627dc
   - 9c9b580ee706
@@ -11093,6 +11099,7 @@ tools:
   - 4418229c501e
   - 8f6836089479
   - 916cb26bd9d3
+  - c5a9d57d7eb1
   - fb117b3ee99a
   tool_panel_section_label: RNA Analysis
 - name: idr
@@ -11627,6 +11634,7 @@ tools:
   owner: devteam
   revisions:
   - 04866f817daa
+  - 49be7ffc00e2
   - 4d343c1f606b
   - 887a9bf73d1a
   - 8eb649e67987
